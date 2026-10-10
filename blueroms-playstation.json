@@ -4,10 +4,322 @@
     {
       "title": "Final Fantasy IX [PlayStation]",
       "uris": [
-        "magnet:?xt=urn:btih:5803bb149c29149cd60fea557c450e90b78a4f73&dn=Final Fantasy IX (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce"
+        "magnet:?xt=urn:btih:5803bb149c29149cd60fea557c450e90b78a4f73&dn=Final Fantasy IX (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
       ],
       "uploadDate": "2026-10-10T14:47:16.000Z",
-      "fileSize": "1.4GB"
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Chrono Cross [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:0a058afa4861dbf1b2909d726969b89d7cdc7773&dn=Chrono Cross (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:17.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Metal Gear Solid [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:335c2ea54ae0c241b8d8728f6a4aa06375b7e769&dn=Metal Gear Solid (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:18.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Castlevania: Symphony of the Night [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:f64760b192776e8526967105250a1f74b74924f9&dn=Castlevania - Symphony of the Night (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:20.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Final Fantasy VII [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:d86ab054d2826626a4a8fbd6fb5d78b59a447f18&dn=Final Fantasy VII (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:21.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Final Fantasy VIII [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:1fd08dc7be891aa1d5f4283990ecc77ef0bbc5aa&dn=Final Fantasy VIII (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:23.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Resident Evil 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:983957bc20ef3639ce9966f7a01b3d18423ddb39&dn=Resident Evil 2 - Dual Shock Ver. (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:24.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Crash Bandicoot: Warped [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:ae5d8183adf1904631c5240fdce26395bd5d5a73&dn=Crash Bandicoot - Warped (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:25.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "CTR: Crash Team Racing [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:4455059bf8c2d46e324a8c7363293411a7cf02da&dn=CTR - Crash Team Racing (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:27.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Final Fantasy Chronicles [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:5b577e3c000c6da4263715cb71fdba184d0389dd&dn=Final Fantasy Chronicles (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:28.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Gran Turismo [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:0e35baac7c1427e70d2b518d748f6c6ec99a4b41&dn=Gran Turismo (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:29.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Gran Turismo 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:d2d16cd659fa0d5e3f3c0ff5d53dd743bfeeb5b0&dn=Gran Turismo 2 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:31.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Legacy of Kain: Soul Reaver [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:1064b059ff2d0201f7da7c1e096a6e73fd67f45f&dn=Legacy of Kain - Soul Reaver (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:32.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Medal of Honor [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:c47a7635cef308a0a215fb9a3e8b6d2bc5b75b7e&dn=Medal of Honor (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:33.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "PaRappa the Rapper [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:56df9bdbaf06233438f355ae33123cc636c0c433&dn=PaRappa the Rapper (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:34.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Parasite Eve II [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:5fa138ae8a246c2fabe6ae631536523a350b6618&dn=Parasite Eve II (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:36.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Resident Evil 3: Nemesis [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:1b8af4d3e6e354f91d06c4478c56b8cd4f642794&dn=Resident Evil 3 - Nemesis (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:37.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Resident Evil: Director's Cut [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:ebf8220294a88f45aa4dec995c840240fe6dbc4a&dn=Resident Evil - Director's Cut - Dual Shock Ver. (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:38.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Silent Hill [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:592b9326023574091817a79a79522ef8f9a8fdbd&dn=Silent Hill (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:40.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Tekken 3 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:f2a3772270cd13f2ccff1a373398d935d7162768&dn=Tekken 3 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:41.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Tony Hawk's Pro Skater [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:a2256112b1535b6b212d988b557dace602971fde&dn=Tony Hawk's Pro Skater (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:43.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:97fbabbb46211cd989876d1b7455208038849a58&dn=Tony Hawk's Pro Skater 2 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:44.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Vagrant Story [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:2c05f758355abc6f8e8eda5477124cabf527902a&dn=Vagrant Story (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:45.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "WipEout XL [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:fac7d539476d90ec90f41351e1f3661f233106c5&dn=Wipeout XL (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:47.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Ape Escape [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:2ae853c6acf78c0bf80a1146eb683c34cffa265b&dn=Ape Escape (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:48.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Colin McRae Rally 2.0 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:7410054cb9f6ac197009862e66108aa2b3722c4b&dn=Colin McRae Rally 2.0 (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:50.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Colony Wars [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:7a846fd06e5cf4e24610d37e95b85825e08823a4&dn=Colony Wars (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:51.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Einh\u00e4nder [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:47fe70c6bee2758e9df73b92570c59c84bd160cf&dn=Einhaender (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:53.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Grandia [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:48b85193f355566f0f55570f3c9c44890b346743&dn=Grandia (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:54.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Oddworld: Abe's Exoddus [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:58b39b7b5a6a1ba3d93928d0a3eccd8e51f402e7&dn=Oddworld - Abe's Exoddus (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:56.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Spyro: Year of the Dragon [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:73e6b46cb5188ec7d3023d254d3f6cf24d7cc4b2&dn=Spyro - Year of the Dragon (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:57.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Syphon Filter [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:543e83247e865a17f573ab38f0547a5a657ade08&dn=Syphon Filter (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:58.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Tekken 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:1c5432cce655bfa49dba15ae27c3cc40e1a48fa4&dn=Tekken 2 (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:00.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Tomb Raider [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:98d7e5723d9039942c6eb9e2867bd9f3a2471060&dn=Tomb Raider (USA) (Rev 6)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:01.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 3 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:baadb2353a425efe3494e10d76bb8db325dc90a5&dn=Tony Hawk's Pro Skater 3 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:02.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "WipEout 3 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:950d39442d858f1a0a93e67585578d828e5bf660&dn=WipEout 3 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:04.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Dino Crisis [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:cb05c814a66809e9781ea679ec47ca71b7aa074c&dn=Dino Crisis (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:05.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Dino Crisis 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:01fed8c10491805086f0c7cd0e750778c3cd5dc2&dn=Dino Crisis 2 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:06.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Driver [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:5eb6cc0c22c40b70da13093acd1d83286fb7971d&dn=Driver - You Are the Wheelman (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:07.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Final Fantasy Anthology [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:8daccbf108c43c9f078990ff3dd08032f7d91896&dn=Final Fantasy Anthology (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:09.000Z",
+      "fileSize": "Unknown"
     }
   ]
 }

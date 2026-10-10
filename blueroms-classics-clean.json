@@ -1,0 +1,2885 @@
+{
+  "name": "BlueRoms Classics",
+  "downloads": [
+    {
+      "title": "Final Fantasy IX [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:5803bb149c29149cd60fea557c450e90b78a4f73&xt=urn:btmh:1220415ecc7526e400b7820d7e80d573877c1be491d3cf1e7c7387b23cdf37f594ff&dn=Final Fantasy IX (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:16.000Z",
+      "fileSize": "1.4GiB"
+    },
+    {
+      "title": "Chrono Cross [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:0a058afa4861dbf1b2909d726969b89d7cdc7773&xt=urn:btmh:12206622097f94d48bd507b7fef70da618c7efa44701d228a8ff2271b84309ea8b1e&dn=Chrono Cross (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:17.000Z",
+      "fileSize": "665.9MiB"
+    },
+    {
+      "title": "Metal Gear Solid [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:335c2ea54ae0c241b8d8728f6a4aa06375b7e769&xt=urn:btmh:1220df2e31e5bccb5f16a315e92ab3fcb21f0779b643e6693f201d453e90356681da&dn=Metal Gear Solid (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:18.000Z",
+      "fileSize": "790.5MiB"
+    },
+    {
+      "title": "Castlevania: Symphony of the Night [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:f64760b192776e8526967105250a1f74b74924f9&xt=urn:btmh:122079ab9bea2a14707e4a1ff902ffb2138d93d1e46e7e02f6b7e32c99833494024c&dn=Castlevania - Symphony of the Night (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:20.000Z",
+      "fileSize": "351.4MiB"
+    },
+    {
+      "title": "Final Fantasy VII [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:d86ab054d2826626a4a8fbd6fb5d78b59a447f18&xt=urn:btmh:1220ab1db27c5193665229240dd54f7886b538e9d99dff8952792cc3b4788eb7b8dc&dn=Final Fantasy VII (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:21.000Z",
+      "fileSize": "1.6GiB"
+    },
+    {
+      "title": "Final Fantasy VIII [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:1fd08dc7be891aa1d5f4283990ecc77ef0bbc5aa&xt=urn:btmh:12202710bd8a0e3abd85bc1d55256822f2c578d8fbd55dc766871dd16d00e49bb80e&dn=Final Fantasy VIII (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:23.000Z",
+      "fileSize": "1.7GiB"
+    },
+    {
+      "title": "Resident Evil 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:983957bc20ef3639ce9966f7a01b3d18423ddb39&xt=urn:btmh:12207308cfeab311a45faef23786d5bec26bd6a640b8c77dfe274f3f8e3a10462217&dn=Resident Evil 2 - Dual Shock Ver. (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:24.000Z",
+      "fileSize": "756.1MiB"
+    },
+    {
+      "title": "Crash Bandicoot: Warped [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:ae5d8183adf1904631c5240fdce26395bd5d5a73&xt=urn:btmh:122027e3fc518b4556771fbe25937cdbb7faa41cbe58e057952a20c90a0495060c90&dn=Crash Bandicoot - Warped (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:25.000Z",
+      "fileSize": "76.8MiB"
+    },
+    {
+      "title": "CTR: Crash Team Racing [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:4455059bf8c2d46e324a8c7363293411a7cf02da&xt=urn:btmh:1220689152aafcfa22eab44af035bbadee3f6ac0206930a1bd966c6b1ea453d2eb1e&dn=CTR - Crash Team Racing (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:27.000Z",
+      "fileSize": "267.8MiB"
+    },
+    {
+      "title": "Final Fantasy Chronicles [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:5b577e3c000c6da4263715cb71fdba184d0389dd&xt=urn:btmh:1220f2e6a1ba3c0cb50d8d9c73ddb82e34d2b00ebdb8af7f3b616baf17e66f41de83&dn=Final Fantasy Chronicles (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:28.000Z",
+      "fileSize": "465.4MiB"
+    },
+    {
+      "title": "Gran Turismo [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:0e35baac7c1427e70d2b518d748f6c6ec99a4b41&xt=urn:btmh:1220ec8e90f0cea2134c518d65e3d8d00004c869004c8c8d66c32cea89df7e259cc7&dn=Gran Turismo (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:29.000Z",
+      "fileSize": "304.3MiB"
+    },
+    {
+      "title": "Gran Turismo 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:d2d16cd659fa0d5e3f3c0ff5d53dd743bfeeb5b0&xt=urn:btmh:1220d95adae7ba5486d1067610038292e889cec6cb3ac4b25c787d30ba652700f352&dn=Gran Turismo 2 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:31.000Z",
+      "fileSize": "1.1GiB"
+    },
+    {
+      "title": "Legacy of Kain: Soul Reaver [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:1064b059ff2d0201f7da7c1e096a6e73fd67f45f&xt=urn:btmh:12209b1a1501ab90bfd37f9750bb659b0043e0e22dcfb21ef02efa9d17aafd311b9f&dn=Legacy of Kain - Soul Reaver (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:32.000Z",
+      "fileSize": "271.2MiB"
+    },
+    {
+      "title": "Medal of Honor [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:c47a7635cef308a0a215fb9a3e8b6d2bc5b75b7e&xt=urn:btmh:12200fc1219c1cb8a6612475d342ae778098f709370dc4e027aa4b740c94585de6cd&dn=Medal of Honor (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:33.000Z",
+      "fileSize": "396.5MiB"
+    },
+    {
+      "title": "PaRappa the Rapper [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:56df9bdbaf06233438f355ae33123cc636c0c433&xt=urn:btmh:122003e73fec236cda3d744462f45e577db7838826bb2df86c341c14670360ab4c08&dn=PaRappa the Rapper (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:34.000Z",
+      "fileSize": "317.7MiB"
+    },
+    {
+      "title": "Parasite Eve II [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:5fa138ae8a246c2fabe6ae631536523a350b6618&xt=urn:btmh:1220fa08b34934b2a11b51303b3a4b7b0345d2ff4cf96b8de9a7de01531fdf7d096d&dn=Parasite Eve II (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:36.000Z",
+      "fileSize": "685.7MiB"
+    },
+    {
+      "title": "Resident Evil 3: Nemesis [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:1b8af4d3e6e354f91d06c4478c56b8cd4f642794&xt=urn:btmh:12205fe1b6133fbee07638f4c9ff946cf53195c132a7f9c974bf87522daa6ea2e9c3&dn=Resident Evil 3 - Nemesis (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:37.000Z",
+      "fileSize": "248.5MiB"
+    },
+    {
+      "title": "Resident Evil: Director's Cut [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:ebf8220294a88f45aa4dec995c840240fe6dbc4a&xt=urn:btmh:1220fef4aa7c9eec3459148b458d21f842b8620746bbbdf16ae8955b4fe805c56944&dn=Resident Evil - Director's Cut - Dual Shock Ver. (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:38.000Z",
+      "fileSize": "269.0MiB"
+    },
+    {
+      "title": "Silent Hill [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:592b9326023574091817a79a79522ef8f9a8fdbd&xt=urn:btmh:122060e25d4188673478319b38c1ab00e93a4d8f8a27c16e12abf080757b83750354&dn=Silent Hill (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:40.000Z",
+      "fileSize": "240.6MiB"
+    },
+    {
+      "title": "Tekken 3 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:f2a3772270cd13f2ccff1a373398d935d7162768&xt=urn:btmh:1220fda849270cc95b049e1fc06a8ff311ebc40cca8a0d5df32d04f78db91cd0ccee&dn=Tekken 3 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:41.000Z",
+      "fileSize": "438.5MiB"
+    },
+    {
+      "title": "Tony Hawk's Pro Skater [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:a2256112b1535b6b212d988b557dace602971fde&xt=urn:btmh:12203d70a0b52ef20ce7dd194cfc211fb9532867b499dfd7ce47f56f3652dedbf682&dn=Tony Hawk's Pro Skater (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:43.000Z",
+      "fileSize": "343.1MiB"
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:97fbabbb46211cd989876d1b7455208038849a58&xt=urn:btmh:12206c0f9c507b5cf27476081d51a73aa24227e1574158c0e424d1ed40165cd4c880&dn=Tony Hawk's Pro Skater 2 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:44.000Z",
+      "fileSize": "459.4MiB"
+    },
+    {
+      "title": "Vagrant Story [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:2c05f758355abc6f8e8eda5477124cabf527902a&xt=urn:btmh:122030902d746e4c6f035b1c5a24fd0e29291dbf011495f693b10c028931b0c7ff19&dn=Vagrant Story (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:45.000Z",
+      "fileSize": "65.8MiB"
+    },
+    {
+      "title": "WipEout XL [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:fac7d539476d90ec90f41351e1f3661f233106c5&xt=urn:btmh:122005b5ab11a34064477e90ef904aed78f0ff1b96ca1a5d30893f5e7be83c5eb9dd&dn=Wipeout XL (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:47.000Z",
+      "fileSize": "565.3MiB"
+    },
+    {
+      "title": "Ape Escape [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:2ae853c6acf78c0bf80a1146eb683c34cffa265b&xt=urn:btmh:1220b8aa1e48c83631b8a810de9d981d565805c8e688c40fe1439c8edbe492868bb1&dn=Ape Escape (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:48.000Z",
+      "fileSize": "101.9MiB"
+    },
+    {
+      "title": "Colin McRae Rally 2.0 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:7410054cb9f6ac197009862e66108aa2b3722c4b&xt=urn:btmh:1220944f5a7abb279cad8cfe6227320272df4cc5ecc7c1ad9edc0ec6b986c7df7731&dn=Colin McRae Rally 2.0 (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:50.000Z",
+      "fileSize": "244.1MiB"
+    },
+    {
+      "title": "Colony Wars [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:7a846fd06e5cf4e24610d37e95b85825e08823a4&xt=urn:btmh:122067b12871d9f588d6ab506b230f266566848c5921efb4d05e78b285be3e95197b&dn=Colony Wars (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:51.000Z",
+      "fileSize": "774.7MiB"
+    },
+    {
+      "title": "Einhänder [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:47fe70c6bee2758e9df73b92570c59c84bd160cf&xt=urn:btmh:1220343377cc555a343d3057f3106233485318c015cda055dba4c9c176c1440cf352&dn=Einhaender (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:53.000Z",
+      "fileSize": "287.0MiB"
+    },
+    {
+      "title": "Grandia [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:48b85193f355566f0f55570f3c9c44890b346743&xt=urn:btmh:1220a1e34ad1386700c1b5271b61dd7d7b2897d7a79b7540d4fc44c39eb82b17cdeb&dn=Grandia (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:54.000Z",
+      "fileSize": "791.6MiB"
+    },
+    {
+      "title": "Oddworld: Abe's Exoddus [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:58b39b7b5a6a1ba3d93928d0a3eccd8e51f402e7&xt=urn:btmh:12208cbbd5e1ac666bb2bf03e1f1be830e5acceaa6b57ddd6df48ec09a935c1b8a6e&dn=Oddworld - Abe's Exoddus (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:56.000Z",
+      "fileSize": "684.7MiB"
+    },
+    {
+      "title": "Spyro: Year of the Dragon [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:73e6b46cb5188ec7d3023d254d3f6cf24d7cc4b2&xt=urn:btmh:1220568fa1263a3f21b8154ecf90ee2751d2459f75ccfc53f351d22a1ba12692618d&dn=Spyro - Year of the Dragon (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:57.000Z",
+      "fileSize": "357.9MiB"
+    },
+    {
+      "title": "Syphon Filter [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:543e83247e865a17f573ab38f0547a5a657ade08&xt=urn:btmh:12202c0fd3fc23572195e88e2218044ddefc93e323153b82ee6acba7d96af20402a9&dn=Syphon Filter (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:58.000Z",
+      "fileSize": "356.7MiB"
+    },
+    {
+      "title": "Tekken 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:1c5432cce655bfa49dba15ae27c3cc40e1a48fa4&xt=urn:btmh:1220a8f1daa5086f9e362b57d8057b958f02dc3953a7b16408fdaed7f95605389c9c&dn=Tekken 2 (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:00.000Z",
+      "fileSize": "474.4MiB"
+    },
+    {
+      "title": "Tomb Raider [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:98d7e5723d9039942c6eb9e2867bd9f3a2471060&xt=urn:btmh:122018e693ebdf5139716c0762799ae1d7812f96c004565dbd11a5b45abc02fa827b&dn=Tomb Raider (USA) (Rev 6)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:01.000Z",
+      "fileSize": "380.1MiB"
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 3 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:baadb2353a425efe3494e10d76bb8db325dc90a5&xt=urn:btmh:1220fc2966c0489d6e164dbea7e51f69c8e4951c736ee16f87e506ab763ced99a42c&dn=Tony Hawk's Pro Skater 3 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:02.000Z",
+      "fileSize": "368.9MiB"
+    },
+    {
+      "title": "WipEout 3 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:950d39442d858f1a0a93e67585578d828e5bf660&xt=urn:btmh:1220127fe4868920f242ce6f41d5c6e894bcd63efd4861e57e43a25aa9f32f6b9ee3&dn=WipEout 3 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:04.000Z",
+      "fileSize": "513.8MiB"
+    },
+    {
+      "title": "Dino Crisis [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:cb05c814a66809e9781ea679ec47ca71b7aa074c&xt=urn:btmh:12203506c70478ad1cd8446185281f62777e4ee5c85db1dedb3b61fe271cbb796cb5&dn=Dino Crisis (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:05.000Z",
+      "fileSize": "214.7MiB"
+    },
+    {
+      "title": "Dino Crisis 2 [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:01fed8c10491805086f0c7cd0e750778c3cd5dc2&xt=urn:btmh:122024043b6abdb7bdba360e34cd7f8dd896eb7d459ac186f3ff7d0764cda33c67e4&dn=Dino Crisis 2 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:06.000Z",
+      "fileSize": "313.1MiB"
+    },
+    {
+      "title": "Driver [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:5eb6cc0c22c40b70da13093acd1d83286fb7971d&xt=urn:btmh:122041569dd8cc390367115ba8db3e3f6a9d4a586ecb1c2d1e4414e444ae8755dca2&dn=Driver - You Are the Wheelman (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:07.000Z",
+      "fileSize": "363.3MiB"
+    },
+    {
+      "title": "Final Fantasy Anthology [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:8daccbf108c43c9f078990ff3dd08032f7d91896&xt=urn:btmh:12202e7669cd78544fc4f97da36e1d9b27e7722167e881b8701e62ede00a1012278f&dn=Final Fantasy Anthology (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:09.000Z",
+      "fileSize": "244.3MiB"
+    },
+    {
+      "title": "God of War II [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:94e8edc06010f554e95c19058e84738b8e9ea5b2&xt=urn:btmh:1220302c0460cd2899154e97976673c272f2fef40b385cbbe41b75d30401ac6b195b&dn=God of War II (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:12.000Z",
+      "fileSize": "6.0GiB"
+    },
+    {
+      "title": "God of War [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:5363fd88fe8b588d816ad8d5d66a855e42a39d77&xt=urn:btmh:122031f3dfac37703b159a68d7dd139112e6a5e0021e7c94b56222e1a02ee728bb87&dn=God of War (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:13.000Z",
+      "fileSize": "6.4GiB"
+    },
+    {
+      "title": "Grand Theft Auto: San Andreas [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:80b06bfe6fe8e1ab40a73a9c251e763f03152f5c&xt=urn:btmh:1220c4d940a2bccf0719f2b724991704ad31f9f8c9e233d9b09182c4d11f621411ad&dn=Grand Theft Auto - San Andreas (USA) (v3.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:15.000Z",
+      "fileSize": "2.4GiB"
+    },
+    {
+      "title": "Metal Gear Solid 2: Substance [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:45080560e8092534c9a4d3c39cfa98db5ed909cd&xt=urn:btmh:1220c9adb402d3191446f2ade7a4df38495d77bb2a2b87f091c32c3e6c8aa1dea8d8&dn=Metal Gear Solid 2 - Substance (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:16.000Z",
+      "fileSize": "3.6GiB"
+    },
+    {
+      "title": "Metal Gear Solid 3: Subsistence [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:0bf7fe0e16840336b9df7ef2e27c143d292a1af0&xt=urn:btmh:122030646f5ad9d46be48555661dc6adbfb45f16ee20f02ee1b0de5bd82023eb735c&dn=Metal Gear Solid 3 - Subsistence (USA) (En,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:17.000Z",
+      "fileSize": "9.2GiB"
+    },
+    {
+      "title": "Resident Evil 4 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:0b5459614f73a68be2e3249fa8491da2206e6aa9&xt=urn:btmh:1220fe469d5a544477969a1621f861b9c2e34714244f3546b81c9e73fd381db36397&dn=Resident Evil 4 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:20.000Z",
+      "fileSize": "3.0GiB"
+    },
+    {
+      "title": "God Hand [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:d9132da930a53aa3f92664d461307555dc69c387&xt=urn:btmh:1220023764bf5dc76125b342e73945308a0d7481982f3152284e461f80370f630a8e&dn=God Hand (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:21.000Z",
+      "fileSize": "963.0MiB"
+    },
+    {
+      "title": "Grand Theft Auto III [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:68e51fd636e292918811cf3f21e8dbdf15307bf6&xt=urn:btmh:1220089104c74411017ffdd80d690e2ae611663dab6f3ee860e7eb46a731b035633e&dn=Grand Theft Auto III (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:23.000Z",
+      "fileSize": "1002.6MiB"
+    },
+    {
+      "title": "Grand Theft Auto: Vice City [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:c0aca1e238d5f2b33e452265a9a20ce36c4f7b9d&xt=urn:btmh:12200a788eac11573b4f6ca0837f855649167573c707dcf66c3c4e5dde0727946042&dn=Grand Theft Auto - Vice City (USA) (v3.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:24.000Z",
+      "fileSize": "2.2GiB"
+    },
+    {
+      "title": "Devil May Cry [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:ee890ca55e8e8baa7689b382d586ff9c04eb2361&xt=urn:btmh:12207c697c21f6e6c44ad287ec8df2c73b13ab1f31e77d866361c725a2e86ffe7596&dn=Devil May Cry (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:26.000Z",
+      "fileSize": "1.8GiB"
+    },
+    {
+      "title": "Final Fantasy X [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:84bc88151eb911a7e7455c58f3e7b4585eb8a436&xt=urn:btmh:1220f7ba63c17207184e1090ca6c8d803835158361ebbba0176134361f9b1d02f55b&dn=Final Fantasy X International (Japan) (En,Ja)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:27.000Z",
+      "fileSize": "3.3GiB"
+    },
+    {
+      "title": "Final Fantasy XII [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:3202edea51d0b79392954855e28874e67d73e67c&xt=urn:btmh:1220caab1465c50ac9d5a00c20283d13810dc42a8a591fad78494ec755a6846d2422&dn=Final Fantasy XII (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:28.000Z",
+      "fileSize": "2.8GiB"
+    },
+    {
+      "title": "Final Fantasy XII: International Zodiac Job System [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:20d523616d7e9b98d53ef7a7df11810d033f4af9&xt=urn:btmh:1220cf34448b1687f19de7d0b84dba328ab68bedaa46b750b8e3a6a90db665df9f74&dn=Final Fantasy XII International - Zodiac Job System (Japan)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:29.000Z",
+      "fileSize": "2.9GiB"
+    },
+    {
+      "title": "Gran Turismo 3: A-spec [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:ac5808856daf612f31668637dcdef8670dd1296b&xt=urn:btmh:1220a2d0a67a335cb1044ef6d116c19449b81852f20b38db597dafbfd9fc5a65cb81&dn=Gran Turismo 3 - A-Spec (USA) (v1.10)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:31.000Z",
+      "fileSize": "2.9GiB"
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 4 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:865c5ea297bbf8d63106ccfe9e5797c9b3701f00&xt=urn:btmh:1220ebf2d39e3fdb462458ecc2ef7cc5ea583cb886a331feb7e6d97b3dd609b50efa&dn=Tony Hawk's Pro Skater 4 (USA) (v2.01)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:32.000Z",
+      "fileSize": "2.6GiB"
+    },
+    {
+      "title": "Ōkami [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:2fcd75d5dd65e596545accd98a059d679cfd7e0a&xt=urn:btmh:12205956401e19cdb305d2991ee97a7d289b05e9fd91df4ce5588cbaac0632d60319&dn=Ookami (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:33.000Z",
+      "fileSize": "2.8GiB"
+    },
+    {
+      "title": "Shadow of the Colossus [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:521c9d0d441034de5e3b5ad91c5ed8a9c673d65b&xt=urn:btmh:1220d371dbb64356b3277e3039d71b750d469560b3dd91234588b794279319e4b816&dn=Shadow of the Colossus (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:35.000Z",
+      "fileSize": "702.6MiB"
+    },
+    {
+      "title": "Silent Hill 2 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:3d54584c99fe3c9bb0b21cfb897859230a07388a&xt=urn:btmh:122047e189545adacc119131aeac2f530e7605a8f21f442b43d60a0ca7be32ef5efe&dn=Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:36.000Z",
+      "fileSize": "2.0GiB"
+    },
+    {
+      "title": "Twisted Metal: Black [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:565ae9419a43af62a1c64ddf2349ee1fae678d5c&xt=urn:btmh:122078597cc37e6d35271437e7e2a2a80c1a8bdc77dd59491314f6a6bd82588630fd&dn=Twisted Metal - Black (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:38.000Z",
+      "fileSize": "2.7GiB"
+    },
+    {
+      "title": "World Soccer: Winning Eleven 7 International [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:c81c9d1c1adee631bb4e12cf42e78bc62c306972&xt=urn:btmh:1220d37759421a6b31ca48b55a420c42dcdf5de33702264364cc22cdc0615ca3c95b&dn=World Soccer Winning Eleven 7 - International (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:39.000Z",
+      "fileSize": "2.4GiB"
+    },
+    {
+      "title": "World Soccer: Winning Eleven 8 International [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:4b4ea40b10c7187e162fe23ff09ad3a62d7bac65&xt=urn:btmh:1220735b8cc8df475a9227325810b95e52a8f87eb7835d1254585a60f836497bb7b3&dn=World Soccer Winning Eleven 8 - International (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:40.000Z",
+      "fileSize": "1.6GiB"
+    },
+    {
+      "title": "World Soccer: Winning Eleven 9 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:3aef0c16c240cd8885a71678f8e1df98fa7d5e0f&xt=urn:btmh:12201c2838fdc8708f101479552b35b0c4e916de6f7bcba74073d4e5c567f63b69d4&dn=World Soccer Winning Eleven 9 (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:42.000Z",
+      "fileSize": "1.9GiB"
+    },
+    {
+      "title": "Dragon Quest VIII: Journey of the Cursed King [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:4c488e2970dee57f7d1a1db6a088aa83e0ee28c8&xt=urn:btmh:1220d99b58fddc7ec70017ab8f410b58c8f6a71125c311201ef4fb1152672944de35&dn=Dragon Quest VIII - Journey of the Cursed King (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:43.000Z",
+      "fileSize": "2.5GiB"
+    },
+    {
+      "title": "ICO [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:d2db6196db5a320ca62752ec65c93db900b8f909&xt=urn:btmh:1220476f8d883fe53063f7ef5c6125828dddd85b7c23673eb4e8cf5a3857803ee625&dn=Ico (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:44.000Z",
+      "fileSize": "456.6MiB"
+    },
+    {
+      "title": "Madden NFL 2005 (Collector's Edition) [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:172f973b61ce9eea84f296cc93296e5e74e92f87&xt=urn:btmh:1220a786e5453774d4e9baa0651e08b042703d18dba10aa5cf89a2e940980598adcf&dn=Madden NFL 2005 (USA) (Collector's Edition)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:45.000Z",
+      "fileSize": "5.5GiB"
+    },
+    {
+      "title": "NCAA Football 2004 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:92d597219250558173571a19cc9cbd91e2f94764&xt=urn:btmh:1220f63f2601f0bf942aa21742f0b3c1a65276172d2aeb5d7af400695eec4d95f420&dn=NCAA Football 2004 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:46.000Z",
+      "fileSize": "2.1GiB"
+    },
+    {
+      "title": "Prince of Persia: The Sands of Time [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:8bc3dd65e1d20dd9ea7a25c8a3582e6b448e6270&xt=urn:btmh:122068b0dfe289d774c82bc9dd2233e6ca6ae4e68546c181cf5969986dfc200d7d3f&dn=Prince of Persia - The Sands of Time (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:48.000Z",
+      "fileSize": "1.5GiB"
+    },
+    {
+      "title": "Ratchet & Clank: Going Commando [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:ace134075a0400794747985070ab59d008e5a6c3&xt=urn:btmh:1220759ab0675c27579049d048cac0790cfbdb3a5f6f923c686eedad28f1cffba136&dn=Ratchet & Clank - Going Commando (USA) (v2.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:49.000Z",
+      "fileSize": "2.4GiB"
+    },
+    {
+      "title": "Shin Megami Tensei: Persona 3 FES [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:c9dd83e1ff07e56b04389f1ac529bac9e2a5898a&xt=urn:btmh:12207582e2c7dba9d33f05526cd6ccf460f72de4d828262a774873970faa22ed67b7&dn=Shin Megami Tensei - Persona 3 FES (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:50.000Z",
+      "fileSize": "2.4GiB"
+    },
+    {
+      "title": "Shin Megami Tensei: Persona 4 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:58c575f0995128d57369c680537a02165ef22f57&xt=urn:btmh:1220170fb85cb29dcbfdcd9c44998985a53057c717160116c0451ed403424ebfe566&dn=Shin Megami Tensei - Persona 4 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:52.000Z",
+      "fileSize": "2.0GiB"
+    },
+    {
+      "title": "Silent Hill 3 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:ea6ea8384e222e2e09832c4b9bbb2b92027cdd22&xt=urn:btmh:122051363ea1e2cfc1bcc45a411d461c351ad72e54ec09ab655950e25a1632895f40&dn=Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:53.000Z",
+      "fileSize": "1.7GiB"
+    },
+    {
+      "title": "SoulCalibur II [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:8f1cc503369fd8c569b8a0393d478bdc2b9dbcea&xt=urn:btmh:1220552ebfbb2db7c7194966fb814f73a7c10a831c2f58aba6446daca6b5b484290c&dn=Soulcalibur II (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:54.000Z",
+      "fileSize": "558.8MiB"
+    },
+    {
+      "title": "SSX [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:5d82213815c140b8a6a874118a45ac314873cfeb&xt=urn:btmh:12206416bc5cb691ff6fcc90d9f5e7aec5d43d63593154fe1f659eaf6fa75cbe8a09&dn=SSX (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:56.000Z",
+      "fileSize": "514.4MiB"
+    },
+    {
+      "title": "SSX Tricky [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:a77cf272b463d2cafda45a3dcda8d75d5f3964df&xt=urn:btmh:12207ed6dac19ab47abf191e1184fee0d34a508d797fb7a97d6896bad085c0ef754b&dn=SSX Tricky (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:57.000Z",
+      "fileSize": "2.2GiB"
+    },
+    {
+      "title": "TimeSplitters 2 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:1552a1c718388970638f4609de7055923d31ec65&xt=urn:btmh:122048eccb518d2e53288a51719e734ad1b3c66b8d90d9d50bf2ec5b4c2f71b8cf9e&dn=TimeSplitters 2 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:48:59.000Z",
+      "fileSize": "957.0MiB"
+    },
+    {
+      "title": "World Soccer: Winning Eleven 6 International [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:939e1cf009cc2dd0f29333a4f70dd8a163f0de41&xt=urn:btmh:1220a60fb0840127fd8c7086276ae1fba94382207932436a7846a280691db5c1bcbf&dn=World Soccer Winning Eleven 6 - International (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:00.000Z",
+      "fileSize": "1.4GiB"
+    },
+    {
+      "title": "Bully [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:0738cdd0c14183333214e15446d52f63ef002380&xt=urn:btmh:1220d49e55ec2cb5af7764a20699ae718551779d846c699fea77800cc821f498cee9&dn=Bully (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:01.000Z",
+      "fileSize": "1.9GiB"
+    },
+    {
+      "title": "Burnout: Revenge [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:e54aaca5b63885ea5dca112291d5dbb7ba311bbd&xt=urn:btmh:1220fe803120aaa1a6e201f9b3b0a058816769efa0331f7ede6e5f54697682691b06&dn=Burnout Revenge (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:03.000Z",
+      "fileSize": "1.5GiB"
+    },
+    {
+      "title": "Dark Cloud 2 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:e043f169681efae2059934ffb62fcb88d94163ec&xt=urn:btmh:122006bc7f7a82727acf1f56788f935b70357f1eeb4aef96c2cdc02f19cf80445611&dn=Dark Cloud 2 (USA) (v2.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:04.000Z",
+      "fileSize": "2.2GiB"
+    },
+    {
+      "title": "Dead or Alive 2 [PlayStation 2]",
+      "uris": [
+        "magnet:?xt=urn:btih:a388b4e2a6ec832beba8d481aeb3db48db707cbb&xt=urn:btmh:122048967aff20b7a31b498734e9a4e5346a888b2cb9d251f54f59c53843071b90d9&dn=DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:06.000Z",
+      "fileSize": "926.7MiB"
+    },
+    {
+      "title": "God of War III [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:c94f588a0f2d7e32ba3e7dca5468258ff46b69bb&xt=urn:btmh:122023ad49005d15ce320e564c391917ddfcf01b33c9242d5352a0f438f32c84a953&dn=God of War III (USA) (v02.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:09.000Z",
+      "fileSize": "35.5GiB"
+    },
+    {
+      "title": "Metal Gear Solid 4: Guns of the Patriots [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:9a523e05e20b1c52ad46d640c1dd6295246ada27&xt=urn:btmh:12209fee717dc21c07c14de8628063f56066f6fcc13a1817d49d0f3569655c5d8182&dn=Metal Gear Solid 4 - Guns of the Patriots (Europe) (En,Fr,De,Es,It) (v02.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:11.000Z",
+      "fileSize": "26.8GiB"
+    },
+    {
+      "title": "Red Dead Redemption: Game of the Year Edition [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:9be445841aec6c65c2f3676b9fd7468d39a5e103&xt=urn:btmh:1220b678bb1eed60e049d4e5dd13e14a5e2b3031bbb3cb3b9d601c135627b66c0980&dn=Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:12.000Z",
+      "fileSize": "9.6GiB"
+    },
+    {
+      "title": "Uncharted 2: Among Thieves [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:4a5d0b3088e46c51d9a55c5122a5846797847f40&xt=urn:btmh:1220ec312ce96f587ce7eeb0ba10d83c10ae3f28acaa7f62b62e77b511cdd901d5a7&dn=Uncharted 2 - Among Thieves (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:13.000Z",
+      "fileSize": "20.3GiB"
+    },
+    {
+      "title": "God of War: Origins Collection [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:9e3954b0fb55ee23450235eb7027999dfb973c21&xt=urn:btmh:1220f0611c66c725cb3f87424898f7d0febca3010249d45b9f2977f5e35a9797334d&dn=God of War - Origins Collection (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:15.000Z",
+      "fileSize": "19.1GiB"
+    },
+    {
+      "title": "LittleBigPlanet [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:ceacbea6de60eaae92d3d23c66e64983b3df3653&xt=urn:btmh:12203072dee87f6b0ce9f4ae0714c4434b114a966fb7e2f62146d7e0ec3b82d54670&dn=LittleBigPlanet (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko) (v02.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:16.000Z",
+      "fileSize": "8.4GiB"
+    },
+    {
+      "title": "Portal 2 [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:d047c627c324b4aea60ca277ad53fb2cfce61dcb&xt=urn:btmh:1220d8583ea9cd2dbea4276c5ce8536bcc3788909451b86af417b099a03abfe4624c&dn=Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:17.000Z",
+      "fileSize": "5.8GiB"
+    },
+    {
+      "title": "Metal Gear Solid: HD Collection [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:7fd33e90b236ec2af667bef4f7a5dedafb3727f3&xt=urn:btmh:1220412b258e4b9aaba45c3439074df8436e83ec96d2c102fbbd569f256882a2ca06&dn=Metal Gear Solid - The Legacy Collection 1987-2012 (Europe) (En,Fr,De,Es,It) (Disc 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:19.000Z",
+      "fileSize": "43.1GiB"
+    },
+    {
+      "title": "Persona 5 [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:5881f1951503656335b34c612a4a07fb6c5ff79c&xt=urn:btmh:12200f1e169025ab18789e6c02da556ffe76d6986bef0231d76e9cd232b52df93810&dn=Persona 5 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:20.000Z",
+      "fileSize": "21.5GiB"
+    },
+    {
+      "title": "The ICO & Shadow of the Colossus Collection [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:e9f1a852edd73842e48d8cae7be406a3a286ae0e&xt=urn:btmh:122041d82badca48271f8320736287ff3120dad5043e7b33c9b71f01392b727a3955&dn=Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:21.000Z",
+      "fileSize": "11.0GiB"
+    },
+    {
+      "title": "Demon's Souls [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:a8a8701295c2aecbc15b0a3ca04e0f07b135f79a&xt=urn:btmh:1220681d0b93cfece91758b2d90e7b2c2e2f1761c40e9db5aab1c46e556eb330ea71&dn=Demon's Souls (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:23.000Z",
+      "fileSize": "8.1GiB"
+    },
+    {
+      "title": "God of War Collection [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:9d106f1e2803a77e4868c8d29ad7375af2b9a2ad&xt=urn:btmh:12203665cd9406ac4f87011aacd8858cd308c7942892a00bfc57f064bba16bed3518&dn=God of War Collection (USA) (v02.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:24.000Z",
+      "fileSize": "15.4GiB"
+    },
+    {
+      "title": "Killzone: Trilogy Collection [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:161addf3e5bd36043070e8baa2035cb388b9ec57&xt=urn:btmh:122069215d863461c99d595a5c2df8931b13c9fe4f00a562ded1739c2e98839596ad&dn=Killzone Trilogy (USA) (Killzone + Killzone 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:25.000Z",
+      "fileSize": "15.5GiB"
+    },
+    {
+      "title": "The Orange Box [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:07a27591e4259013beec0f486db9711097893e36&xt=urn:btmh:1220c3abc473b207faea0e808f6c889a0fd7d05725338cf8663f01ca3d9f3a732ede&dn=Orange Box, The (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:26.000Z",
+      "fileSize": "17.0GiB"
+    },
+    {
+      "title": "Uncharted 3: Drake's Deception - Game of the Year Edition [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:c64bab9f048acc527ae6565785b48f2b850a9b63&xt=urn:btmh:1220fecbf229aa72cba1453df6a5fe0663f931ca1815fe53910bd9f81a5f9f845ed0&dn=Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:28.000Z",
+      "fileSize": "41.8GiB"
+    },
+    {
+      "title": "Battlefield: Bad Company (Gold Edition) [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:3551a2e1968b25c90e8b9fe1cb75b64dded3215e&xt=urn:btmh:1220971347081d2fac48852daba5c8d96bbae5cf3c633930a15b19e32376151fed1e&dn=Battlefield - Bad Company (USA) (Gold Edition)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:29.000Z",
+      "fileSize": "6.6GiB"
+    },
+    {
+      "title": "Fight Night Round 4 [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:973e37b2260e8028b35db77b26e86ec968d13dd9&xt=urn:btmh:122002cd84439874d2f7af487ada13bb6b88602120821bbdce464af859712938a742&dn=Fight Night Round 4 (USA) (En,Fr)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:30.000Z",
+      "fileSize": "4.4GiB"
+    },
+    {
+      "title": "LittleBigPlanet 2: Special Edition [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:f1585e47fc2be52cdbcfd82421adc5a8e374180e&xt=urn:btmh:1220a2f63d6086af5b302549168668130f6e5f6f6f54f1a95df4a658aee6637e84e9&dn=LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es,Pt)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:31.000Z",
+      "fileSize": "16.7GiB"
+    },
+    {
+      "title": "Ratchet & Clank Future: Tools of Destruction [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:532e556b7d1a4cba3c9f63574efbff4847f34b66&xt=urn:btmh:122013d590df8760fbb02f6581d9c5701b9c8435718feaf3445e59b428d16174b5b3&dn=Ratchet & Clank Future - Tools of Destruction (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko) (v02.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:33.000Z",
+      "fileSize": "22.7GiB"
+    },
+    {
+      "title": "Uncharted: Drake's Fortune [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:19576e7049bdba545a6156de016436f6e6243faa&xt=urn:btmh:12209329be18ea7f02b24e60f4e024a0d1bd3d3226579ccb77f5b8d6d99b1f1842b8&dn=Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:34.000Z",
+      "fileSize": "21.2GiB"
+    },
+    {
+      "title": "WipEout HD: Fury [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:d949a209cb0b348b206797fc833f43abafe3f0b1&xt=urn:btmh:1220eb8b2a17a71a011406051e25ab3d6452b46f0807945bc9e0d58b63cede0f4edf&dn=WipEout HD (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:35.000Z",
+      "fileSize": "1.7GiB"
+    },
+    {
+      "title": "Guacamelee! [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:1135d100c444886cb1ac6f09fe2725e8462b6b62&xt=urn:btmh:1220cce153338f579ee90fd8a3b3b7c39cd29a23c3c3f9a557694a4524861cc68e65&dn=Guacamelee! (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:36.000Z",
+      "fileSize": "814.7MiB"
+    },
+    {
+      "title": "Ratchet & Clank Future: A Crack in Time [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:4be186902a1a0875cf37d99d9610361db76f6afd&xt=urn:btmh:1220417cdaa6c57dd3ab27d69e3f1d7b28e862aca9719190993f4b35ae905649cdee&dn=Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:38.000Z",
+      "fileSize": "22.7GiB"
+    },
+    {
+      "title": "Castlevania: Lords of Shadow [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:9d4c2dfa2494dd37566deb9c3336722059776270&xt=urn:btmh:1220c1f6f5004199adc8281313e21b2457322f1310a2e6f9dcf5d12ee4a3aa78f77b&dn=Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:39.000Z",
+      "fileSize": "12.1GiB"
+    },
+    {
+      "title": "skate 2 [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:a4e5f6512e2bf621d614cec499235335daed1dfb&xt=urn:btmh:1220ce785d594a180ecd57fd5f7d0e1c0e7b2e81e2d5f4ef71af7ddf3e49e0ad2e5d&dn=Skate 2 (USA) (En,Fr)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:40.000Z",
+      "fileSize": "7.6GiB"
+    },
+    {
+      "title": "Street Fighter III: Third Strike - Online Edition [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:4107cbd9776db4826ff26775a9a6952aa094e0fe&xt=urn:btmh:12209f3d3a94d376d7515acf2167073f4668239b7c34c905190f6711c80a889854ac&dn=Street Fighter III - 3rd Strike - Online Edition (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:41.000Z",
+      "fileSize": "767.2MiB"
+    },
+    {
+      "title": "Super Stardust HD [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:1cb480613a3a97f91bcbea13936927d58ee8e88e&xt=urn:btmh:12209d45847d61797f0400218844f834c0765e0f98226e33b198850fb273e8848719&dn=Super Stardust HD (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (v7.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:43.000Z",
+      "fileSize": "512.0MiB"
+    },
+    {
+      "title": "Condemned 2: Bloodshot [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:99535253f408d81109e0e882641f8187d977ec91&xt=urn:btmh:1220c68ba426b7584cb48d4c5113ed8f2d6ffd48b74b08020fa90f8203aca3b67b9a&dn=Condemned 2 - Bloodshot (USA) (En,Fr,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:44.000Z",
+      "fileSize": "6.5GiB"
+    },
+    {
+      "title": "Fat Princess [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:d2a64b88b086acfcb1c89f044f81764604ceab85&xt=urn:btmh:1220eb23eab36c1212487c8f7bf922843ccc20d84233fd0f74066f12bee9cfb0511e&dn=Fat Princess (USA) (v2.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:45.000Z",
+      "fileSize": "365.0MiB"
+    },
+    {
+      "title": "Gran Turismo 6 [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:568641f05a7c11e9615ae4ce0a89a5301945f686&xt=urn:btmh:1220ae9c4f530f4ee450ccf3b58e5f68aa9daf9a76141567e6276def5ef160534993&dn=Gran Turismo 6 (USA) (En,Ja,Fr)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:47.000Z",
+      "fileSize": "14.8GiB"
+    },
+    {
+      "title": "Ratchet & Clank Collection [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:40d4723acebfe2bbe21619e1974c0ac7b0d906cc&xt=urn:btmh:12201fc1af2cd403490a867a8e92a75f0e895cc5b472f1f665f8c940fcc56305305f&dn=Ratchet & Clank Collection (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:48.000Z",
+      "fileSize": "11.7GiB"
+    },
+    {
+      "title": "Resistance 2 [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:c28f160631aa78996e425a761255011c05365fa4&xt=urn:btmh:1220cacb1c26f4a7121add143a129d87144931f5b55a5bb6bfc8fe23c10bd01558f5&dn=Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:49.000Z",
+      "fileSize": "21.9GiB"
+    },
+    {
+      "title": "Resistance 3 [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:c54cae064fc5d55bf9f9e4989be48648f25c3bde&xt=urn:btmh:122068e9dc3870cd1e21ba4d5de417e81878f36abd0ee1d5be2b821c9119e8da1108&dn=Resistance 3 (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:51.000Z",
+      "fileSize": "35.0GiB"
+    },
+    {
+      "title": "The Sly Collection [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:29024cabd9b60415cf75231884b45cce387c2e35&xt=urn:btmh:1220b8049df132e556f966ede756d228913b6924f6686adf5fed8390736b6d4a0046&dn=Sly Collection, The (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:52.000Z",
+      "fileSize": "23.2GiB"
+    },
+    {
+      "title": "Dead Space: Extraction [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:5e56a702d9a893cf2618cf9ae1145b06eafd9a13&xt=urn:btmh:12205b256c44fdccfad0c2b44c77c9c1fa0ae40af887663d4d1acb8e6352395abb6c&dn=Dead Space - Extraction (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:54.000Z",
+      "fileSize": "3.5GiB"
+    },
+    {
+      "title": "Dragon's Crown [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:8eb4ea43bc0b621d0593921da37c17961c8afcdf&xt=urn:btmh:1220244a126fecea80762d17537f85bd723ed5df468816a2473c1dc2cf7d7feed818&dn=Dragon's Crown (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:55.000Z",
+      "fileSize": "1.6GiB"
+    },
+    {
+      "title": "Eternal Sonata [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:bcd06fea5ec7950c2b2f92fdb36721b49277bced&xt=urn:btmh:12205153619fdd2f2039e2449cc58da4616f79c500911f1609fc1a2396087f87073b&dn=Eternal Sonata (USA) (En,Fr)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:56.000Z",
+      "fileSize": "10.4GiB"
+    },
+    {
+      "title": "Fight Night Round 3 [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:56426821845a6418113c329535a328d7cb3a8dc4&xt=urn:btmh:122099311f2eb48fcdbf53597288ab9514c19caeb4c5f45b317c5620112a859e40d2&dn=Fight Night Round 3 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:58.000Z",
+      "fileSize": "2.8GiB"
+    },
+    {
+      "title": "Hatsune Miku: Project DIVA F [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:19ebe275e3d471c6aa9c7c27a2fca1597b2fd3a0&xt=urn:btmh:12205f3767e576884f3a1fc0bc2f683a69a5b23e1816117baa47e05fae7633b069f5&dn=Hatsune Miku - Project DIVA F (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:49:59.000Z",
+      "fileSize": "5.8GiB"
+    },
+    {
+      "title": "IL-2 Sturmovik: Birds of Prey [PlayStation 3]",
+      "uris": [
+        "magnet:?xt=urn:btih:07c96eca2219434069bf7f0dc0eeb134281cc6e6&xt=urn:btmh:1220e1ca16ce46db79ead7ff9f49d49d135f8faa6a60726184ebf04cd7fcc560c899&dn=IL-2 Sturmovik - Birds of Prey (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:00.000Z",
+      "fileSize": "5.1GiB"
+    },
+    {
+      "title": "Metal Gear Solid: Peace Walker [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:bb434a98e4281e40aa057ca4119b36cb3c859d6c&xt=urn:btmh:12203446995d1c5028c15c3d9e8d8ba07ac4154bc058d21ee2694a4716e1fd02dddb&dn=Metal Gear Solid - Peace Walker (Europe) (En,Fr,De,Es,It) (v1.01)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:03.000Z",
+      "fileSize": "1.3GiB"
+    },
+    {
+      "title": "Grand Theft Auto: Chinatown Wars [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:08e9ca50cde657635ff5a22f115a2380b5a28d3d&xt=urn:btmh:12203f7ab94f273f1566a35b66ee817b530e52ab895bb990c86ae8d1974ed61b6b6c&dn=Grand Theft Auto - Chinatown Wars (Europe) (En,Fr,De,Es,It) (v1.01)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:05.000Z",
+      "fileSize": "521.3MiB"
+    },
+    {
+      "title": "Lumines: Puzzle Fusion [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:98d6605d0f4df90e57d7f829de259b0d5e02c1f9&xt=urn:btmh:1220d6b3cc0a72535bae9f150a906133064e1e2a31dab8f37459bf9eed4030388385&dn=Lumines (Europe) (En,Fr,De,Es,It) (v1.01)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:06.000Z",
+      "fileSize": "134.4MiB"
+    },
+    {
+      "title": "Shin Megami Tensei: Persona 3 - Portable [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:e78858e3b327eab65210c0a9b151e2904d4d986c&xt=urn:btmh:122065154d17c595c9afd6fddb7646ac38549ed87aa1eea2378e2a7b7c135394b0b6&dn=Shin Megami Tensei - Persona 3 Portable (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:08.000Z",
+      "fileSize": "857.9MiB"
+    },
+    {
+      "title": "Final Fantasy Tactics: The War of the Lions [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:855482e2fa79e0ba7e0ba3f1c85fb039a5b031d5&xt=urn:btmh:1220225b21a8dff64c8e9ce4915b9754f9fae6a0aeefc8bcc3aa99986d0af52f66f1&dn=Final Fantasy Tactics - The War of the Lions (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:09.000Z",
+      "fileSize": "188.2MiB"
+    },
+    {
+      "title": "Grand Theft Auto: Liberty City Stories [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:4c525f0172b90a474792763b49e60eebadeb515c&xt=urn:btmh:12204c8a4df5a4f523b5653c8e7558b692e9be4fee5b8c88cbf98e4f7717e200d86f&dn=Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v3.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:10.000Z",
+      "fileSize": "429.7MiB"
+    },
+    {
+      "title": "Jeanne d'Arc [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:2dac4653e54380591d4e405644ec840a13d24783&xt=urn:btmh:1220762dd7f649139923352cce1df96b461f061fee122ba41b4e695de523af3ec9d7&dn=Jeanne d'Arc (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:12.000Z",
+      "fileSize": "516.8MiB"
+    },
+    {
+      "title": "Ridge Racer [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:5a8401bafeeb212a14bf16585986dc4db5fc8939&xt=urn:btmh:122072d8bab87f60cfe7c16ce1f9ffd5f780cf6e7dfa7fb49e908178c1d31b80aa43&dn=Ridge Racer (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:13.000Z",
+      "fileSize": "478.5MiB"
+    },
+    {
+      "title": "Tekken: Dark Resurrection [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:d96c4d6c7c6bfffa31ebd6c401e6cdd6606320d4&xt=urn:btmh:1220af9d9d0a9300007710777606706977ef09bf221a96a8c61e0116dca01d72eb16&dn=Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:15.000Z",
+      "fileSize": "1.0GiB"
+    },
+    {
+      "title": "WipEout Pure [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:b40cc031fdc2525306c2b6c47152848b5ea8bf6c&xt=urn:btmh:1220ad9fc88a2456939aa3f0031e146c26f620ae62bfd07f782214d1aed6b913815f&dn=WipEout Pure (Europe) (En,Fr,De,Es,It) (v1.01)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:16.000Z",
+      "fileSize": "172.6MiB"
+    },
+    {
+      "title": "Burnout: Legends [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:b17849b1cfbecbb9923f819ed528eaf772e7a756&xt=urn:btmh:1220dcfb0bdfa1165298dcfe1ede341ac609237ab706e4c35806e93fdb6f70cadf95&dn=Burnout Legends (USA) (En,Fr,De,Es,It,Nl) (v2.00)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:17.000Z",
+      "fileSize": "163.6MiB"
+    },
+    {
+      "title": "Daxter [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:f28ec8505b2ce984f4283626e407298f6c69c691&xt=urn:btmh:12205b64cbc31e9c1e32159461639ab1c850d52fdafeec893c92e3baa515be925d06&dn=Daxter (Europe) (En,Fr,De,Es,It,Ko)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:18.000Z",
+      "fileSize": "984.4MiB"
+    },
+    {
+      "title": "Disgaea: Afternoon of Darkness [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:87c2cddfded515392c3f7cdf7746b13de31f3eb5&xt=urn:btmh:1220e6fef04fb9f66daff4eda3c22429fb2bce7517640b0d9d714dbdf0cdc09c2f09&dn=Disgaea - Afternoon of Darkness (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:20.000Z",
+      "fileSize": "383.9MiB"
+    },
+    {
+      "title": "God of War: Ghost of Sparta [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:9dcb334bc783c2ac1452c09ad1e418b2a06c6ff1&xt=urn:btmh:12204d920fafd550c8fb485f821169d1f28543ced90641d7063cd86ece4efcd9a84a&dn=God of War - Ghost of Sparta (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:21.000Z",
+      "fileSize": "965.3MiB"
+    },
+    {
+      "title": "Grand Theft Auto: Vice City Stories [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:22b3edac1fa85a21c1e8c55f11ce479decf2ba7a&xt=urn:btmh:1220006cd1adbd70a8f53b73284a52e4c0284bd0fb2ecdfa1b6c9899e1104d1a95f2&dn=Grand Theft Auto - Vice City Stories (Europe) (En,Fr,De,Es,It) (v1.02)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:22.000Z",
+      "fileSize": "661.2MiB"
+    },
+    {
+      "title": "LocoRoco 2 [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:b2f477794f7ba2caf659006cb21f1df863ed7121&xt=urn:btmh:122007d2bed8df12f29829d155456555952dae596f48be0a9b43be7725d69091e1dc&dn=LocoRoco 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Ru)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:24.000Z",
+      "fileSize": "1.1GiB"
+    },
+    {
+      "title": "Metal Gear Solid: Portable Ops [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:572a0c55fc50fb5c249abcc286e8131d3c9f754b&xt=urn:btmh:12206353bff1dfa1c93a7b85f2076d666c83fe5f376cecfdc2b8aaec81fe62234f10&dn=Metal Gear Solid - Portable Ops (Europe) (En,Fr,De,Es,It) (v1.01)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:25.000Z",
+      "fileSize": "861.5MiB"
+    },
+    {
+      "title": "Patapon [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:851bbdda382a1a6b5869d7d01393a9125ce556ae&xt=urn:btmh:1220fc1cfd0f2b088fcd09bb5722cbb244fc198662d45b689e809639645b3bc634c3&dn=Patapon (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:26.000Z",
+      "fileSize": "128.8MiB"
+    },
+    {
+      "title": "PixelJunk Monsters: Deluxe [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:392661f5938310c579dd52e4a98ca0a8c27b8846&xt=urn:btmh:1220e61456914498d2e3b48754e3515bd3f7d10365d43e355e915dfc22a1169c9951&dn=PixelJunk Monsters - Deluxe (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:27.000Z",
+      "fileSize": "95.1MiB"
+    },
+    {
+      "title": "Ratchet & Clank: Size Matters [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:6951d7e9be1552138cbe1017db3ea5f994c60dac&xt=urn:btmh:12203f5816da7d8fe0977cd78fa29ef9b2775cce1cdceecdc4b88e641f976ce1ac83&dn=Ratchet & Clank - Size Matters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:29.000Z",
+      "fileSize": "712.2MiB"
+    },
+    {
+      "title": "Syphon Filter: Dark Mirror [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:007f8f873b21e79de9ed426c71ddd7da9157adb3&xt=urn:btmh:1220febf5da38bacb054a3011ddba70c2971ad4ad957566ced337b6bfa751e791755&dn=Syphon Filter - Dark Mirror (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:30.000Z",
+      "fileSize": "1.3GiB"
+    },
+    {
+      "title": "Tactics Ogre: Let Us Cling Together [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:414b59bc5fd60c51995d44179ddaf9b1138b7d03&xt=urn:btmh:122099f572dc01dc7bcfdccd03f49b300d434c87c53b74947d4d513464b4e808607c&dn=Tactics Ogre - Let Us Cling Together (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:31.000Z",
+      "fileSize": "987.3MiB"
+    },
+    {
+      "title": "Velocity [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:efb843e11ef54735a826af2a16ce8c2438270884&xt=urn:btmh:1220a51e179da5cf617ba5f4cbb31c91f8dda6e3dfe72a8387bb5c18bc330d371589&dn=Velocity (Europe) (Minis)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:33.000Z",
+      "fileSize": "72.6MiB"
+    },
+    {
+      "title": "Blast Off [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:ad6fb25ef091bdb99a9a334512c8dd6319eda60a&xt=urn:btmh:1220f18dd4cad79844ca5b58d3a2bd85ba84175039cdb8c9a5fce5a490dfaf905e9b&dn=Blast Off (Europe) (Minis)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:34.000Z",
+      "fileSize": "18.5MiB"
+    },
+    {
+      "title": "Castlevania: The Dracula X Chronicles [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:a054cdcf9c172329d30f1c37f536c1a5d599d3db&xt=urn:btmh:122025bc347d8302860b93ac7a4f953a3fc247fda277bfd8e98d8e5a56595220ecc2&dn=Castlevania - The Dracula X Chronicles (Europe) (En,Fr,De,Es,It) (v1.03)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:35.000Z",
+      "fileSize": "626.2MiB"
+    },
+    {
+      "title": "Colin McRae Rally 2005 Plus [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:007664c30cdc800cef7db765cd46de1bdadbc80a&xt=urn:btmh:1220c08e5c070d4f35bb0f3f4c9d7a20855318072b89c26059e5a099f3779d0bd295&dn=Colin McRae Rally 2005 Plus (Europe) (En,Fr,De,Es,It) (v1.02)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:37.000Z",
+      "fileSize": "450.9MiB"
+    },
+    {
+      "title": "Crisis Core: Final Fantasy VII [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:83820d6af8ca8bce06ea8e02fa9c3e2b8de91ad4&xt=urn:btmh:1220cf6f0cfc4ffb2bb4976881799a4c2fc8eed2158e65a9c07781c2dde6d87c76db&dn=Crisis Core - Final Fantasy VII (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:38.000Z",
+      "fileSize": "884.0MiB"
+    },
+    {
+      "title": "Disgaea Infinite [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:2d6b67c3d986eb3c93ad3b7a2a940275b1e42f29&xt=urn:btmh:12204f28b21aab90c699fa8c87eb797ac0d4619711b08623f1e0d408570374726652&dn=Disgaea Infinite (USA) (v1.01)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:39.000Z",
+      "fileSize": "174.2MiB"
+    },
+    {
+      "title": "Every Extend Extra [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:75f15668c06a0df4b0a615e2cd58bdf958b1a151&xt=urn:btmh:1220137268232c293d7a5d721180a2eaa201a6a26f2499ae864e205c232ef3fee759&dn=Every Extend Extra (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:40.000Z",
+      "fileSize": "236.9MiB"
+    },
+    {
+      "title": "Formula One 06 [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:3049a7331d988deafcc7d507a413483604e2fc11&xt=urn:btmh:12201666954ecbc03dde89bf34f9c1fb877a1698fa2f839dd8d2de5a9161c7ce17fc&dn=Formula One 06 (Europe) (En,Fr,De,Es,It,Pt,Fi)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:42.000Z",
+      "fileSize": "1.2GiB"
+    },
+    {
+      "title": "Half-Minute Hero [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:621de05382f1f75c43bf4b31e2e24c510bf36d90&xt=urn:btmh:122038ea527713e97ab538ee9ecdd42496502f5f670642aea59e5792184e2bcc3d8c&dn=Half-Minute Hero (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:43.000Z",
+      "fileSize": "118.8MiB"
+    },
+    {
+      "title": "Luxor: The Wrath of Set [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:d90426da349fb381532cd12199b8ac5cd1110837&xt=urn:btmh:12203ac429527ffdf8461e560ca135dcd9a687a40da26f47dad29a9957bdc3d0f135&dn=Luxor - The Wrath of Set (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:44.000Z",
+      "fileSize": "31.6MiB"
+    },
+    {
+      "title": "Metal Gear Solid: Portable Ops Plus [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:aa990a67133b9b21bda433f91c8e8973ae807543&xt=urn:btmh:1220a3b69e8c921ea66fd7fc5610f1b9de7847389d2318a4b3ef98bf616d796cc24e&dn=Metal Gear Solid - Portable Ops Plus (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:46.000Z",
+      "fileSize": "515.5MiB"
+    },
+    {
+      "title": "Need for Speed: ProStreet [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:bc2a276028a790c5b9637ae128e0a82253f48994&xt=urn:btmh:12200a68a27eb70fa60bdd6dd4df3d756a46cd4a1cbd354e8c875f1d1eb35cbc9cf1&dn=Need for Speed - ProStreet (Europe) (En,Fr,De,Es,It,Nl)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:47.000Z",
+      "fileSize": "302.2MiB"
+    },
+    {
+      "title": "Princess Crown [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:22b0b5bfa22abc7f0301ba003de99f093ab0caf2&xt=urn:btmh:12202dfb80ad9627f1279518dc8164ba307421fd4caad9ccf68845db066af6951743&dn=Princess Crown (Japan) (v1.03)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:48.000Z",
+      "fileSize": "82.4MiB"
+    },
+    {
+      "title": "Puzzle Quest: Challenge of the Warlords [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:60b8bb65f55c6a4b1c8d8d6a239dbf79a0a6bbd1&xt=urn:btmh:1220c639faf86099ad2fb5604268d44bfccaacef9602ad216980a94e415727dc3d72&dn=Puzzle Quest - Challenge of the Warlords (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:50.000Z",
+      "fileSize": "78.3MiB"
+    },
+    {
+      "title": "Spac3 Invaders Extr3me [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:08f8d60194c31695839225a633728e650758456b&xt=urn:btmh:1220b23e0d9e9afe666afc0064094708b4d10b88cc691db792d2244a48ec37a51ace&dn=Space Invaders Extreme (USA) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:51.000Z",
+      "fileSize": "57.0MiB"
+    },
+    {
+      "title": "Strikers 1945 Plus [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:4f7027800c021494d7a93e6d462af2523d8f20d4&xt=urn:btmh:1220967926eef124dc863b870124f1f96ee3dcaa7811dd97682b4826628d7051b29b&dn=Strikers 1945 Plus Portable (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:52.000Z",
+      "fileSize": "22.7MiB"
+    },
+    {
+      "title": "Syphon Filter: Logan's Shadow [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:5da943ab4a99b9af40be98d3c0b036d6cc3a951e&xt=urn:btmh:12201a82d95b30edc9f2d5627875286d90d4a6ea0b7b798d771df15b06584d71c32c&dn=Syphon Filter - Logan's Shadow (Europe) (En,Fr,De,Es,It,Pl,Ru)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:54.000Z",
+      "fileSize": "1.3GiB"
+    },
+    {
+      "title": "The Eye of Judgment: Legends [PlayStation Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:fd228d9378b95b31a02091733c3677ee6549dfa2&xt=urn:btmh:1220074fb75ff38d2905eb2047de9b9298d11c954ed65ebf2099e0b9751f7b5d661a&dn=Eye of Judgment, The - Legends (Europe) (En,Fr,De,Es,It) (v1.01)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:55.000Z",
+      "fileSize": "312.5MiB"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:82a95c198bede9e483d95892e4cddbfcb5eda9df&xt=urn:btmh:1220b4e5998674220db0c5f7cd68301dd5535596f5e9cdf5847edbb8eb1f26b2677c&dn=Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:50:59.000Z",
+      "fileSize": "25.2MiB"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time - Master Quest [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:e3c3e6812bcad6008180cb0cfcc2019a0642c16f&xt=urn:btmh:1220bd5a8a4317eadf240f7b0f150993244195c8f836bdfca928c90ba8f95eff1c3c&dn=Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:00.000Z",
+      "fileSize": "25.2MiB"
+    },
+    {
+      "title": "Perfect Dark [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:b657fd31ff665d20da2897ac231bff935e005bc4&xt=urn:btmh:1220b7288cbe3b77aa2e5c513094e31609c5383bd01f9c888ab7b3e73f052cf4e004&dn=Perfect Dark (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:01.000Z",
+      "fileSize": "28.8MiB"
+    },
+    {
+      "title": "The Legend of Zelda: Majora's Mask [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:0bfe4e692a3cfe4870caed523909f8ea7b4aba39&xt=urn:btmh:1220aab5c977a32fba19391fb0c755224083e0e663559943d8f02c97b1e566ffc1bb&dn=Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:03.000Z",
+      "fileSize": "26.7MiB"
+    },
+    {
+      "title": "GoldenEye 007 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:10007a31ac84a11b19c83749be1aaa561a78fd1e&xt=urn:btmh:12200e055fc9fc91c3b9bf1efdce8a393a1ebb054a1c0361ecd1108710ad74594469&dn=GoldenEye 007 (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:04.000Z",
+      "fileSize": "10.3MiB"
+    },
+    {
+      "title": "Super Mario 64 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:9ba3f7715640f859343117a8cfadb836692a66a5&xt=urn:btmh:122035287d14835ba303d9a61c5e7b10b09de60844675816ae335e93c84d58d7022d&dn=Super Mario 64 (Europe) (En,Fr,De)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:06.000Z",
+      "fileSize": "6.0MiB"
+    },
+    {
+      "title": "Banjo-Kazooie [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:ba494c1a957d56119c433534763cae93f33893bc&xt=urn:btmh:1220e629275bedfb15ef1c0a75aa03e787765e5f4a74d70513a95a93b7497a8c9ae2&dn=Banjo-Kazooie (Europe) (En,Fr,De)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:07.000Z",
+      "fileSize": "15.7MiB"
+    },
+    {
+      "title": "Conker's Bad Fur Day [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:6bb0b935d8e186ebc7bc99013eb579f32f5f7b2e&xt=urn:btmh:122014678954d95ead661e13ea49eaa94d1776abf38241aeefc016fb995a550df995&dn=Conker's Bad Fur Day (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:09.000Z",
+      "fileSize": "58.4MiB"
+    },
+    {
+      "title": "Paper Mario [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:131b6f283a6d2bc24cc196296c75089322de5ef2&xt=urn:btmh:12206c31b5636c9d551092239ceec5784e24035b68f8e773ed7e5f4871b128a8147b&dn=Paper Mario (Europe) (En,Fr,De,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:10.000Z",
+      "fileSize": "22.6MiB"
+    },
+    {
+      "title": "Wave Race 64: Kawasaki Jet Ski [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:a7fcce94734361c27a56185901a7f71a34f9ee71&xt=urn:btmh:12209ee0aa5db3ab60e3a3d1fe58bb9e813e7c76b46e15ae86d2fb31272152ca6422&dn=Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:11.000Z",
+      "fileSize": "6.0MiB"
+    },
+    {
+      "title": "Banjo-Tooie [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:7b79dd81fb0cbac62ab7a96896e4f1ead3645bff&xt=urn:btmh:12207d0f3797b2d8171a55d963dd313efdaa9fee13495533866a785388372928a715&dn=Banjo-Tooie (Europe) (En,Fr,De,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:13.000Z",
+      "fileSize": "31.3MiB"
+    },
+    {
+      "title": "Beetle Adventure Racing! [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:fc35168eebcbfc2b0d9721180f490c6b332df0ed&xt=urn:btmh:1220dd6accb585d747dacbd39a8db5b420020af694cf60603accaa166c25c96bfb01&dn=Beetle Adventure Racing! (Europe) (En,Fr,De)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:14.000Z",
+      "fileSize": "12.2MiB"
+    },
+    {
+      "title": "Blast Corps [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:5ba232a97a74cee9673c47ef393c49910ab063c4&xt=urn:btmh:1220ad83fbf24fcb8b7d8caa0e29ab34d1bea660ea7c556d4ddc1ed6572ee7563004&dn=Blast Corps (Europe) (En,De)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:16.000Z",
+      "fileSize": "6.9MiB"
+    },
+    {
+      "title": "Donkey Kong 64 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:ef5dcd204e1573ca9f6a4c669288230880cec568&xt=urn:btmh:1220f273f1c64f2f882a06b9338dd279034f756e7d9cf2ea4e9054df78d2518f247f&dn=Donkey Kong 64 (Europe) (En,Fr,De,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:18.000Z",
+      "fileSize": "26.5MiB"
+    },
+    {
+      "title": "Mario Golf [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:1be7dd742b715837e3ed335ea5944eaac8bbb536&xt=urn:btmh:1220665e3f7a580008e4e482037f39bba29ca0af32a108ab8ec7a2952d5ab8248840&dn=Mario Golf (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:20.000Z",
+      "fileSize": "16.5MiB"
+    },
+    {
+      "title": "Mario Tennis [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:2a57939c48046daa76ca98d058a584172e6ef2c4&xt=urn:btmh:12209a949c0d8432f03f5cf7835e1051e885bbd5af566967d360bc91d5694f27617b&dn=Mario Tennis (Europe) (Wii Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:21.000Z",
+      "fileSize": "14.1MiB"
+    },
+    {
+      "title": "Diddy Kong Racing [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:ce458d0d2e968c09997733270e2af8040592e458&xt=urn:btmh:1220bcd59cf2d1e939bb5bbef5f4ea91078fcd33f2cceff052142a4c508cd56f96dc&dn=Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:22.000Z",
+      "fileSize": "9.8MiB"
+    },
+    {
+      "title": "Excitebike 64 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:8e2e8273b68f92981bf8d1da48294136c4718806&xt=urn:btmh:12208554f25a0533c04bf0487c99d56e84585fc8df2968c6ec9f5a405aa4b26ce57b&dn=Excitebike 64 (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:24.000Z",
+      "fileSize": "15.0MiB"
+    },
+    {
+      "title": "Star Fox 64 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:715049627f7bacd33ef06538e596ec06b4ad6e53&xt=urn:btmh:122043f3dde3a117d32d9c66fa144a6583e8d82f94a39803b95b7f454fc70b301f10&dn=Star Fox 64 (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:25.000Z",
+      "fileSize": "10.1MiB"
+    },
+    {
+      "title": "WWF No Mercy [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:57f1c40e78c9909f39dbacbcc80b0121c457cf25&xt=urn:btmh:12207387a9e5af1bd3bc40980efb50af914a24ca5847e7b0887cd7a42229fe0242f5&dn=WWF No Mercy (Europe) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:27.000Z",
+      "fileSize": "24.7MiB"
+    },
+    {
+      "title": "Turok 2: Seeds of Evil [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:42a379b3b81c833b053ed7850d4fb53472515b89&xt=urn:btmh:12205acac4a6dbfafefae285a7cdffc410ae64cd7f7da71bae30b0237925538d1e0d&dn=Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:28.000Z",
+      "fileSize": "27.9MiB"
+    },
+    {
+      "title": "F-Zero X [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:cf6127082c29cbc4d417445d45ddbc2f53ae6ce1&xt=urn:btmh:122057a012fd88e9e349bfd01f9ae91d51be62369cc35fe323853be46aa14a59f433&dn=F-Zero X (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:30.000Z",
+      "fileSize": "12.4MiB"
+    },
+    {
+      "title": "NFL Blitz 2000 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:1e76088cb1d73bf7764d6fb10ddaf4e7b437d776&xt=urn:btmh:1220c9a892d0ae6b4e4e6662f402ce0b22ec3e20c38b5144d9e313fd29702578d2c6&dn=NFL Blitz 2000 (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:31.000Z",
+      "fileSize": "13.7MiB"
+    },
+    {
+      "title": "Snowboard Kids 2 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:353915e53fbbc3524d510a79d3cb847a33ea88a8&xt=urn:btmh:12203703aa70d7918f77fb30aba816e5783abc52405e6a336b38854269b7962ed330&dn=Snowboard Kids 2 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:33.000Z",
+      "fileSize": "10.5MiB"
+    },
+    {
+      "title": "Star Wars: Episode I - Battle for Naboo [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:9cb8cce4e8075093bc504cac88321e7be573e83e&xt=urn:btmh:12200adf121f3176042add98a515b0a4a86de131bee2708c4faf64a78bcd8078ab78&dn=Star Wars Episode I - Battle for Naboo (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:34.000Z",
+      "fileSize": "25.6MiB"
+    },
+    {
+      "title": "Star Wars: Rogue Squadron [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:baf9e2c72ae4885cf59bf13cba003feb287db1cb&xt=urn:btmh:12209859ca95878e082148054d6fecffedb9823772041108205ac7427d48e156590b&dn=Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:36.000Z",
+      "fileSize": "13.8MiB"
+    },
+    {
+      "title": "Top Gear Hyper-Bike [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:2a9e8fed227349dc391154216b129740be4e36b9&xt=urn:btmh:1220df4b0add2fb441b205fc29e1160e74bb0087c25e460b94bcfe521b22d621736a&dn=Top Gear Hyper Bike (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:37.000Z",
+      "fileSize": "14.8MiB"
+    },
+    {
+      "title": "Turok: Dinosaur Hunter [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:781b41f02caee217f247a110639afa55b02a4939&xt=urn:btmh:122090f1b74150a607f9a90ef53743d5291924c5807c52446dd3ba833e8e3041938e&dn=Turok - Dinosaur Hunter (Europe) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:39.000Z",
+      "fileSize": "7.2MiB"
+    },
+    {
+      "title": "WipEout 64 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:d2bcb0bd8f14577b379e0e61cfed48b467bd4785&xt=urn:btmh:1220327ee1a89503aac39a56909820c55ad0251bd2a5236c9a50cbf572a6a838382f&dn=Wipeout 64 (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:41.000Z",
+      "fileSize": "5.8MiB"
+    },
+    {
+      "title": "Extreme-G [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:5c009e15cc3254f90f3ef219ac337f7aeb19c9d0&xt=urn:btmh:1220b89e79ca13ca6a11987a39c6a7dae24bf65afd4aa98b55af175181e749ea3ea7&dn=Extreme-G (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:42.000Z",
+      "fileSize": "7.6MiB"
+    },
+    {
+      "title": "Goemon's Great Adventure [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:7c9ed0dbdf2582f5924ddc679ed8e37c9b3ff0d3&xt=urn:btmh:1220e234fbb97b52dbbbd455ab58ec31063d8acc18fa8573218b194ba60f99f1357f&dn=Goemon's Great Adventure (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:44.000Z",
+      "fileSize": "14.0MiB"
+    },
+    {
+      "title": "Mario Kart 64 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:950cbd3161044f07f107e5fdb3253b02e0a5c456&xt=urn:btmh:1220467f61845d0adc0f3e0a28da1c63ca151e05e4f0723f6ee524bf734ad8900941&dn=Mario Kart 64 (Europe) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:45.000Z",
+      "fileSize": "8.6MiB"
+    },
+    {
+      "title": "Mystical Ninja Starring Goemon [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:9fea0894ff9e9fbe284c8f974ae5467aafcb12de&xt=urn:btmh:1220bd2f70fea64f11c31a0e151c55c44e2c842a2baa9b4c31d1d7241f0f5b599ee9&dn=Mystical Ninja Starring Goemon (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:47.000Z",
+      "fileSize": "12.7MiB"
+    },
+    {
+      "title": "Ogre Battle 64: Person of Lordly Caliber [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:05a5827887daf31b8ae086ab1638bf807ca9308e&xt=urn:btmh:12204bb8f686bb64230834d3ad3a7a292ec8b4e5283dff0a6a61eda943ee6e4ac1ce&dn=Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:48.000Z",
+      "fileSize": "33.6MiB"
+    },
+    {
+      "title": "Ridge Racer 64 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:ec61acfdd8f775b39389262fe2f7b6e7abd8c6fe&xt=urn:btmh:1220dc376b2f3a8d3ebbee6319a7cf3d9301e2dacf336a5d2e63cd22a848ceaa6125&dn=RR64 - Ridge Racer 64 (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:50.000Z",
+      "fileSize": "17.9MiB"
+    },
+    {
+      "title": "Space Station Silicon Valley [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:97a0fed11368876d71eea23833db318e45ac8d39&xt=urn:btmh:122024a5200dc9e210abdcb369e097baf32c5c395875c5803436232d72767ef3415a&dn=SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:51.000Z",
+      "fileSize": "6.1MiB"
+    },
+    {
+      "title": "007: The World Is Not Enough [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:f164a23f2353b807f2c663011762eda2c084acae&xt=urn:btmh:1220edb25c29811b82b588e413ca1084edb9a7603f2bf0bbaddbd45c7c286cff5747&dn=007 - The World Is Not Enough (Europe) (En,Fr,De)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:52.000Z",
+      "fileSize": "25.3MiB"
+    },
+    {
+      "title": "Bust-A-Move 3 [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:8ae473b932fc841e2f83e703d67a827cfe510dcc&xt=urn:btmh:1220217f863b9fce6bcea81e45edb5f4027405bcc7ea961dae308053f762950598d9&dn=Bust-A-Move '99 (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:54.000Z",
+      "fileSize": "6.7MiB"
+    },
+    {
+      "title": "F-1 World Grand Prix [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:f351a9a69ccf7f3bc7647dbc21a8bd247edee533&xt=urn:btmh:1220a32b55ddb67eb8ee535652c6f281624373b6a11414075729db22a61cad236639&dn=F-1 World Grand Prix (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:55.000Z",
+      "fileSize": "9.0MiB"
+    },
+    {
+      "title": "Jet Force Gemini [Nintendo 64]",
+      "uris": [
+        "magnet:?xt=urn:btih:12c65fb864b09ba86b092bc9eee7d7d76636a7cb&xt=urn:btmh:12202629db62e0ddcb171c5d0f2ce33927a38231d60f68b4f1bb9e6278dd65f2e293&dn=Jet Force Gemini (Europe) (En,Fr,De,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:51:57.000Z",
+      "fileSize": "28.3MiB"
+    },
+    {
+      "title": "Final Fantasy III [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:f3d9346f5508689fe0f7dd9e8a723360aff942be&xt=urn:btmh:1220b0d21196001359ca791f9812c52948d32dc89f0cbccd8f18f12c6050c0cad638&dn=Final Fantasy III (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:00.000Z",
+      "fileSize": "2.1MiB"
+    },
+    {
+      "title": "Chrono Trigger [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:19819e1a909e1d8afb718575e3fa09ba2ced9f86&xt=urn:btmh:1220c54175420d949e6ec6e4bf3d8e51055ef784a536dc511ed3715875a02db30e4e&dn=Chrono Trigger (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:02.000Z",
+      "fileSize": "2.9MiB"
+    },
+    {
+      "title": "The Legend of Zelda: A Link to the Past [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:648cccaf76835f2458b0e6310b398128000cf324&xt=urn:btmh:12205923228ece034a886942fcda8ecdbd722e4e90577465c150acda04d76062dff4&dn=Legend of Zelda, The - A Link to the Past (USA, Europe) (Switch Online)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:03.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Final Fantasy II [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:e5a748082279bd26c2663137b195ab5c1106d623&xt=urn:btmh:122025cb05a426fd9fcdb05ebdbac014f22f5fff3b05d814a7da0a7e9a7d25b99b49&dn=Final Fantasy II (USA, Europe) (Rev 1) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:05.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Donkey Kong Country [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:662ea7e3525edaaf5d452d638be0279915b476df&xt=urn:btmh:1220aa2a539e8e4381b6df77c06db0cc62c9f3554dcdb19bc07b7e05dfe2886c70f7&dn=Donkey Kong Country (USA, Europe) (Rev 2) (Virtual Console, Classic Mini, Switch Online)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:06.000Z",
+      "fileSize": "2.4MiB"
+    },
+    {
+      "title": "Donkey Kong Country 2: Diddy's Kong Quest [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:310e50309aaab34b579d23862582907216d1679d&xt=urn:btmh:1220f279acad893abfc34d00213caf600a157a60d2fe4225dd183d923b3eeba6a96f&dn=Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (En,Fr) (Rev 1) (Switch Online)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:07.000Z",
+      "fileSize": "2.8MiB"
+    },
+    {
+      "title": "Donkey Kong Country 3: Dixie Kong's Double Trouble! [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:fda25a7eba165e519f773698baebf9d831bf8702&xt=urn:btmh:1220056423b48a8e7c321c153f1370dcb2d51d78d085e4607870c358ae48da25ff48&dn=Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:09.000Z",
+      "fileSize": "3.1MiB"
+    },
+    {
+      "title": "Super Mario RPG: Legend of the Seven Stars [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:3b7e2dfbdae84741668d006b6e0c91a665ff8d41&xt=urn:btmh:1220e61e386e97723fb4422994f119248a1d37693d4b16e9a08cef5c2c7aa3ae20dc&dn=Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:10.000Z",
+      "fileSize": "2.6MiB"
+    },
+    {
+      "title": "Super Metroid [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:7d17ab8aa1dcc8542580dc812e68e5c1fd9aec26&xt=urn:btmh:12207b7fe4127a762b46ad874c3fc30737cd712cf143ccfdbb5d4d1e4bbb4059f2e7&dn=Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:12.000Z",
+      "fileSize": "1.5MiB"
+    },
+    {
+      "title": "Tactics Ogre [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:870b5510d1dd64743f53898d8795b2168b6f49ec&xt=urn:btmh:122025b15137eefcee1fad7986c3550ecf806e30c0e5ebf01ff27e992c40689f8852&dn=Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) (NP)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:13.000Z",
+      "fileSize": "2.3MiB"
+    },
+    {
+      "title": "Contra III: The Alien Wars [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:4d19de6ff465438b2250545c70ad4fa6df7c1b80&xt=urn:btmh:1220fefdcaa159a68647c9b31452887f63d28aade973ab6371a935a756ab060df881&dn=Contra III - The Alien Wars (USA) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:15.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Ultimate Mortal Kombat 3 [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:13ae290ffb4af1a2d9a78cf0c1568d186a7bb805&xt=urn:btmh:1220b8fd34bbb999bf2881d55f64c75c26edfc9d1a929fe8f223dceace1ffe089039&dn=Ultimate Mortal Kombat 3 (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:16.000Z",
+      "fileSize": "3.3MiB"
+    },
+    {
+      "title": "Demon's Crest [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:5fffec048666972cc055e28b3ab9152d73ebd5bb&xt=urn:btmh:12205c451c9579d3a59a9c188c7bb9788144552ac3ba52141a718f833b270c858fdb&dn=Demon's Crest (USA, Europe) (Switch Online)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:18.000Z",
+      "fileSize": "1.3MiB"
+    },
+    {
+      "title": "EarthBound [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:e645aa3c47f8c4e207bf97047a05ff9ed4d40ae4&xt=urn:btmh:1220d1a61a6bd48f818bb6cceb309f6aaf3acc79e0797cadd026b4dfa395000e54b0&dn=EarthBound (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:19.000Z",
+      "fileSize": "2.0MiB"
+    },
+    {
+      "title": "Final Fantasy V [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:221cc28847689d57c748419ba8e3d060e31bc2ac&xt=urn:btmh:1220a989f1af2196d7eeea45520813e3a24b61e520f5eb9ecd27cc5d3a26a05ea6c2&dn=Final Fantasy V (Japan)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:21.000Z",
+      "fileSize": "1.4MiB"
+    },
+    {
+      "title": "Kirby's Avalanche [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:922396a64652dbda4b733a5c1fa3b1d57db6c793&xt=urn:btmh:12209742a307be687f10ce90be64dad0cd6f4692673fa84a0f2eb0dc35d1112f4310&dn=Kirby's Ghost Trap (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:22.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Super Bomberman 4 [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:c0d181934f390919cd352babbc4de25b3f0b0bc5&xt=urn:btmh:12209fcd08c19fb55ba5955a3ea42d35e414f17821517093c1cbeac5809be3ac2a4e&dn=Super Bomberman 4 (Japan)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:24.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Super Mario Kart [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:c9af194151c6b5eb8631f0c2c5ffd1976fca43bc&xt=urn:btmh:1220d8dfda84b825e16a014baba7eb5d943bfacb09c631a7626ce20c44c185a0813e&dn=Super Mario Kart (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:25.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Batman Returns [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:06ade5946be26a43e9c0157702168047c70a68d2&xt=urn:btmh:122047f30863e0edd412a2f0d304b435f64e10ef02bc117e801f089159ed0eefe7c2&dn=Batman Returns (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:26.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Blackthorne [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:681ae4edf32d4894c2ee3c2f1fae29690ec1fae2&xt=urn:btmh:1220811eaae122de122f7a9c4216384af7bdbe918c036404f77de8b8208deb777f2d&dn=Blackthorne (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:28.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Breath of Fire II [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:6da57a37c3f207ff3af85b8e5d4d3c4fcb6176c4&xt=urn:btmh:12206e51f64f4656bf31e0d0b3bc8b41522f898e05a4da6e97e9e2800cc98c14508f&dn=Breath of Fire II (USA, Europe) (Virtual Console, Switch Online)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:29.000Z",
+      "fileSize": "1.7MiB"
+    },
+    {
+      "title": "Joe & Mac 2: Lost in the Tropics [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:3ee350bbed4d53975b6cbe8a6dc5abba08c8e9d7&xt=urn:btmh:122024026b8cc44d8dd7ae42d1eefe98824aa161ee6245ff0e2debc934551ed940bd&dn=Joe & Mac 2 - Lost in the Tropics (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:31.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Kirby Super Star [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:3910ad5ac17500de3166beb8421cecf3aaff47af&xt=urn:btmh:122069f5786b54087ec17ea8dbc6cdf682127bb529f020f43ce14a914055091786b1&dn=Kirby Super Star (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:32.000Z",
+      "fileSize": "2.7MiB"
+    },
+    {
+      "title": "Mega Man X2 [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:a598b1feff7c97adb4a9f3415ca96b1b75f89895&xt=urn:btmh:1220110e9c6dd4de0235eb30020512792d57297414d48f808e3a61c79fa6920aa17c&dn=Mega Man X2 (World) (Mega Man X Legacy Collection) (Unl)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:34.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Star Ocean [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:dfe6fc4deaf00e951ab2dc3f36c5eb47e2554be3&xt=urn:btmh:1220ed2d6168a8f5a1bfe798b01b791e3a6a15553bda989ea1ea12a8e812f81e6f48&dn=Star Ocean (Japan)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:35.000Z",
+      "fileSize": "5.1MiB"
+    },
+    {
+      "title": "Street Fighter II Turbo [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:1d0a6b48a6dac3c11aa6f91d6ad6ac070194eb61&xt=urn:btmh:12202c56104132f1000214d119820550caeeaec387325b6e81d521a6e540d31a9249&dn=Street Fighter II Turbo (Europe) (Rev 1) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:37.000Z",
+      "fileSize": "1.6MiB"
+    },
+    {
+      "title": "Super Castlevania IV [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:eb27b4852dbaadf4f221d3351ecb94d6a303fc5f&xt=urn:btmh:1220f263e521b637e1056533807d21306fc7f7e5fe26110de0440294b4b0048d2198&dn=Super Castlevania IV (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:38.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Super Mario World [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:72363a3cf8f81c53bd7052711d82d49ade314fab&xt=urn:btmh:1220618befcfef29e3c570fbf546de658269536216dd5d28c4e9486ff226087686fc&dn=Super Mario World (Europe) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:40.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Super Mario World 2: Yoshi's Island [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:5ec817d1676f7f973e0600ce7d020007f49a40ea&xt=urn:btmh:12209b20727739cd0810c852882b49d41926f2cb70de90641f61d037751e89faec1d&dn=Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:41.000Z",
+      "fileSize": "1.2MiB"
+    },
+    {
+      "title": "Top Gear 2 [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:450486ebb7fe74cad0ab5078e925bcdcb3ff2028&xt=urn:btmh:1220d24b1e059a3dc6c2013d21347aee9c01dfbc7c80ecb4e5ca8cd98ba323c7ff97&dn=Top Gear 2 (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:43.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Clay Fighter 2: Judgement Clay [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:ba42b8f1f1dde97705f5a5b79515eabf989f43aa&xt=urn:btmh:12206fe3b406b76e5213ad03a90f0fa764a065945ee483c7fd86a1f519b4922ffec3&dn=Clay Fighter 2 - Judgment Clay (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:45.000Z",
+      "fileSize": "2.1MiB"
+    },
+    {
+      "title": "F1 Pole Position 2 [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:29bed2b56337cfe99dab88a50539ca7a867fa63f&xt=urn:btmh:1220d2dceee3ed5b1d44679624d1581083163ae4071fc09da76c842dee2af7a05ad6&dn=F1 Pole Position 2 (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:46.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Famicom Tantei Club Part II: Ushiro ni Tatsu Shōjo [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:05c69b2043e7fbb8e75074d7996e793e8e75cc0b&xt=urn:btmh:12206cb52780300c046d7e1d5eedc3cce6f1158cfa2e7e7977051b93ac98a2ade9d7&dn=Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (Rev 1) (NP)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:47.000Z",
+      "fileSize": "2.2MiB"
+    },
+    {
+      "title": "Flashback: The Quest for Identity [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:a1e5e75bdb4eba9fb170860c8baf0a72d7e0b2c5&xt=urn:btmh:1220225308e1c3d8ae32e57031296a04d3438a911071d847cd9d9a5ac050e9c83557&dn=Flashback - The Quest for Identity (USA) (En,Fr,De)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:49.000Z",
+      "fileSize": "1.1MiB"
+    },
+    {
+      "title": "GP-1 [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:b867585f3b70c358d0dcd24bd61f559dd90a8ac7&xt=urn:btmh:1220e738651e2d440a632a29b2bd5a95da828eec53baed00231224abd4576dbac68b&dn=GP-1 (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:50.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "International Superstar Soccer [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:4153cf0f59322ad0693c9eb51c443516636a17a9&xt=urn:btmh:1220c8dd5bed358f0ecf1bc9abc5f916d41acb8f80e010584e46ad09a792a49fd398&dn=International Superstar Soccer (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:52.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Kirby's Dream Course [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:972c2d3f5a7a0f6c8d683ec0772d2b9d8320b43d&xt=urn:btmh:12209e0e97edaff719a4b6f6634846c1cf4747d09c4a310476e4593e56f64d483584&dn=Kirby's Dream Course (USA, Europe) (Virtual Console, Switch Online)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:54.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "MechWarrior [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:7ade0c6acf517554f3ce2905af0af801d42f02a7&xt=urn:btmh:1220900e0484ec424aec52f9d65ee47fbfaecc5c51e3e04de19afbc48f0d33fd76db&dn=MechWarrior (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:55.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Mega Man X [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:45bcf90087c62989624053e8ad44ec9905a7cf5f&xt=urn:btmh:1220b7e39325f9bf1de75e53dacb8d00cee0fb109e7ca64c7067d62af83f867703c8&dn=Mega Man X (World) (Rev 1) (Mega Man X Legacy Collection) (Unl)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:57.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Metal Warriors [Super Nintendo]",
+      "uris": [
+        "magnet:?xt=urn:btih:10f601dbf0ef3896d672da624424a77784e529c9&xt=urn:btmh:1220df6b9935648d24e6b2f9d50ad2f46cd3bde80e3dd794a5702e572732f95c8b53&dn=Metal Warriors (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:52:58.000Z",
+      "fileSize": "Unknown"
+    },
+    {
+      "title": "Final Fantasy VI Advance [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:a5f1d6c1df0f9bfdf913fd03c31aa486e5b61d13&xt=urn:btmh:122005f02d0f8c438ff92129861cdd9b52cea94e13ab56a57be3c4b4c61277f3bd28&dn=Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:02.000Z",
+      "fileSize": "5.6MiB"
+    },
+    {
+      "title": "The Legend of Zelda: A Link to the Past/Four Swords [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:e07f6089d9a44eaf530dd2be8fb16b5c431ba758&xt=urn:btmh:1220fae8a47c92c746d3df975d0d9ec6dc8a91fd0bc5a60a6d4e994e1180a0edcca1&dn=Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:03.000Z",
+      "fileSize": "3.8MiB"
+    },
+    {
+      "title": "Mario Kart: Super Circuit [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:d0c7785a7f3da3584355fca7ab189a56d343b1aa&xt=urn:btmh:12205bee6ce8048c024ce7b74bd5ed094341ccfef43e34a209beae61a455ba4302b6&dn=Mario Kart - Super Circuit (Europe) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:04.000Z",
+      "fileSize": "2.1MiB"
+    },
+    {
+      "title": "Super Mario Advance 4: Super Mario Bros. 3 [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:1eb0cbdc1f061d627cdc81d983a2ed3b98a9f37d&xt=urn:btmh:1220e30d6e98be813a1ad964e9a66afbc78b8e921812032e6dcebce8a2e77c96eb43&dn=Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:06.000Z",
+      "fileSize": "Super Mario Advance 4: Super Mario Bros. 3 GBA ROM - Game Download :: BlueRoms"
+    },
+    {
+      "title": "The Legend of Zelda: The Minish Cap [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:891acf8d4f1ae2bbaf6573d96944443f606fa8d1&xt=urn:btmh:122043fb977c630db97991ca818ca2d12fcff0bae916a094f83b860d8e7a4963e8f0&dn=Legend of Zelda, The - The Minish Cap (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:07.000Z",
+      "fileSize": "7.6MiB"
+    },
+    {
+      "title": "Advance Wars [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:2b160c4055ce0bd20054bc5ec8571c389b3d056b&xt=urn:btmh:1220b57e537cdd492f11ff4514e6255129ed987c1a9e6acec24ea3cb15a364bae072&dn=Advance Wars (Europe) (En,Fr,De,Es) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:09.000Z",
+      "fileSize": "3.2MiB"
+    },
+    {
+      "title": "Castlevania: Aria of Sorrow [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:683fea4ad44f13d8d8634f3103079272d17df7c6&xt=urn:btmh:1220f6a00d4d4dca4b6671cb9e03ee38e559985de00bb1d9a1c178f187cbe1c458b9&dn=Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:10.000Z",
+      "fileSize": "4.2MiB"
+    },
+    {
+      "title": "Castlevania: Circle of the Moon [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:03a8b9d4bfffb0820a4ee8c952e94c469a5130c1&xt=urn:btmh:1220eb9f4ac1c32242e84c6fd2790e5c9873d28d47c97dafd24606b320f09540b9a3&dn=Castlevania - Circle of the Moon (USA) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:11.000Z",
+      "fileSize": "3.8MiB"
+    },
+    {
+      "title": "Final Fantasy V Advance [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:9a0eb0061998a2511c1f37f93e35905c18a1ac2a&xt=urn:btmh:12205f00a29e767f5bb01c3998afe66e4e2429f7b32bc90344cffba42a6d3998df9f&dn=Final Fantasy V Advance (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:13.000Z",
+      "fileSize": "5.3MiB"
+    },
+    {
+      "title": "Metroid Fusion [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:db7ae08de2b7beb395065275740823096f2d60ae&xt=urn:btmh:12207c5df1256685d1ada74fb02903cb263e3b15fe73599d2bff1cdad7cc445a4bfa&dn=Metroid Fusion (Europe) (En,Fr,De,Es,It) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:14.000Z",
+      "fileSize": "4.5MiB"
+    },
+    {
+      "title": "Super Mario World: Super Mario Advance 2 [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:80dd8298e7804b53db909e8734b0bdeebda74e86&xt=urn:btmh:1220586c0c640affc5d02c3372973a61d9dc47f7069b9fcd553cf6e75cc673eeed7c&dn=Super Mario Advance 2 - Super Mario World (Europe) (En,Fr,De,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:16.000Z",
+      "fileSize": "Super Mario World: Super Mario Advance 2 GBA ROM - Game Download :: BlueRoms"
+    },
+    {
+      "title": "Advance Wars 2: Black Hole Rising [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:595e393f6c8aae5162aff87a1668e301fe9e4310&xt=urn:btmh:1220bfd4b39ac91b9866e5541eac8bc2ba2482fea73e8e11adc8f47064be6f477fc7&dn=Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:17.000Z",
+      "fileSize": "4.6MiB"
+    },
+    {
+      "title": "Mario & Luigi: Superstar Saga [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:db80698fbb768d668f979e008e8e3930733865d7&xt=urn:btmh:1220b9aaa53069b766ad2e4190d57ab72e3854aeb61e8f9f8d1ff08d3b3d5d1e7854&dn=Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:19.000Z",
+      "fileSize": "6.6MiB"
+    },
+    {
+      "title": "Metroid: Zero Mission [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:c298c62d462736989203939c2942337e0e04c508&xt=urn:btmh:1220d9636a733b9a2aa355ea14c7f5ded80874607d6ba4cca6c2517bfcb3f532ff9f&dn=Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:20.000Z",
+      "fileSize": "5.0MiB"
+    },
+    {
+      "title": "Tactics Ogre: The Knight of Lodis [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:b9aae64b2fe66bdaa808a2a55a48a2a3f4677ab3&xt=urn:btmh:1220384582d4320563a656e4fc4d7d28c2a0285bc47e2fb0ebf2ad0a82e60537003a&dn=Tactics Ogre - The Knight of Lodis (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:22.000Z",
+      "fileSize": "4.2MiB"
+    },
+    {
+      "title": "Wario Land 4 [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:42ca837c74930685108b275c813f16941962f8d4&xt=urn:btmh:122053ace4e08cee974b6694c25a4374a1955830c078d619f09da03d5e81850c9393&dn=Wario Land 4 (USA, Europe) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:23.000Z",
+      "fileSize": "Wario Land 4 GBA ROM - Game Download :: BlueRoms"
+    },
+    {
+      "title": "WarioWare, Inc.: Mega Microgame$! [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:933ac503f924521f4f836bca5a058b08b5eb1a28&xt=urn:btmh:1220ba9ffc99fd0b12ebcda1fe4cc67bbf9d3d784dc8c71ae3ad0ce19b0ca2ea4bad&dn=WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:25.000Z",
+      "fileSize": "4.7MiB"
+    },
+    {
+      "title": "Yoshi's Island: Super Mario Advance 3 [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:54cbef9853cddc2f46ba6f5ad7c8ca3f2c71a955&xt=urn:btmh:1220cb04624f047ffedce318a239553b296ff4e8980f4a2f177393891a95e287e649&dn=Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:26.000Z",
+      "fileSize": "Yoshi's Island: Super Mario Advance 3 GBA ROM - Game Download :: BlueRoms"
+    },
+    {
+      "title": "Castlevania: Harmony of Dissonance [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:86816366ca7976e1817aac388e599c302db328d7&xt=urn:btmh:12209c75d98e899cb626b87e6d2d22c104a42396fc02121eda3927c298d0dfa4257a&dn=Castlevania - Harmony of Dissonance (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:28.000Z",
+      "fileSize": "4.9MiB"
+    },
+    {
+      "title": "Final Fantasy Tactics Advance [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:2b1cae0d37740f61f8508d9fc078bb49c514b120&xt=urn:btmh:12200dbff6e74854cb3ce0408ab49e9ebe7ce44975d23899018d91bb10c4b22c9bcd&dn=Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:29.000Z",
+      "fileSize": "7.0MiB"
+    },
+    {
+      "title": "Fire Emblem [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:890ba3c836758d72c00b6987cd213afca3f10d24&xt=urn:btmh:1220112eb23fbb32bc45b887239361f72ad13272bb935482528423017cdc0c57c8c4&dn=Fire Emblem (Europe) (En,Es,It) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:31.000Z",
+      "fileSize": "11.5MiB"
+    },
+    {
+      "title": "WarioWare: Twisted! [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:8fe99e2a87374953a9e4dd1bac4e2d0fa29614ef&xt=urn:btmh:1220103e4f81241fbef96b6a1868475cc9de182c724460f15ea819a75aed07b0c719&dn=WarioWare - Twisted! (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:32.000Z",
+      "fileSize": "9.7MiB"
+    },
+    {
+      "title": "Disney•Pixar Ratatouille [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:fbdb74b2f17999f5a498d5d237ebe7a7cb20924f&xt=urn:btmh:1220a9d5913c353aba7ec69370413c77a4ee4474041fd61ab6e1efd367b639e9854e&dn=Ratatouille (Europe)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:34.000Z",
+      "fileSize": "8.2MiB"
+    },
+    {
+      "title": "Final Fantasy IV Advance [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:1c5eeffb77bb2a4545485e9d1a87b1066bafe872&xt=urn:btmh:12207df4ace5171753e3ab40fe089f55f4988f005870d319a5af162a5b77e5a5d188&dn=Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:35.000Z",
+      "fileSize": "5.0MiB"
+    },
+    {
+      "title": "F-Zero: Maximum Velocity [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:dd5502056e3cc0f6e802e4577fe749e68f6b1e69&xt=urn:btmh:1220f7bda761e7adbfeb5dfc255f99280c4be5a056ea3f13987de498c03f6a58d56c&dn=F-Zero - Maximum Velocity (USA, Europe) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:37.000Z",
+      "fileSize": "2.1MiB"
+    },
+    {
+      "title": "Golden Sun: The Lost Age [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:3ca954c57b6cf52f10e42901a629d091d9a4cbb9&xt=urn:btmh:1220212cfe1a19ec61bb1b9a754850db4bb6659b7f9be4921ae9a8fda63d0d15d617&dn=Golden Sun - The Lost Age (USA, Europe) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:38.000Z",
+      "fileSize": "12.5MiB"
+    },
+    {
+      "title": "Moto Racer Advance [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:d6cfb4d4f280251071032b8cca2a126c856e7638&xt=urn:btmh:12203780a35aa8d7ce79aa37734ab1a83e49df52ed4f54aa6f33cf34ee7a9baf4e36&dn=Motoracer Advance (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:40.000Z",
+      "fileSize": "2.1MiB"
+    },
+    {
+      "title": "Sonic Advance [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:493e513683d007acf66f93442111b14b74025cd8&xt=urn:btmh:1220be51a48d156f6d66d714327fae3e20fdc1594a82e836019d7ee6125710a2f366&dn=Sonic Advance (Europe) (En,Ja,Fr,De,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:41.000Z",
+      "fileSize": "Sonic the Hedgehog has arrived for his first ever adventure on a Nintendo console. <i>Sonic Advance</i> combines elements from the original Sonic series on Sega's Genesis, as well as from the Dreamcast Sonic Adventure series.\n\nChoose from Sonic, Knuckles, Tails, or Amy and take them through level after level of fast gameplay and ring collecting, dodging enemies in your path towards the final showdown with Dr Robotnik (aka Dr Eggman). Collect Chaos Emeralds along the way to transform into Super Sonic for added speed, and train your Chao to exchange them into Sonic Adventure 2 Battle on the Nintendo GameCube. You can also play four-player battle modes with your friends, using one game cart between 4 GBAs."
+    },
+    {
+      "title": "Astro Boy: Omega Factor [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:35b8f4e730077c94d55e8d343497b87ecc64c447&xt=urn:btmh:1220cf5fdd29792e683dc5e42faea17b580627307b86687c8cf1a9a04762a7fb8804&dn=Astro Boy - Omega Factor (Europe) (En,Ja,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:43.000Z",
+      "fileSize": "5.0MiB"
+    },
+    {
+      "title": "Dave Mirra Freestyle BMX 2 [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:6382a93642d5c8b82413ec9a5c1893c34e0e9ebc&xt=urn:btmh:12209e07bec8fc629a90722ef58752ccb4cbf80ec00907558a1be7cfb6d79f2139c1&dn=Dave Mirra Freestyle BMX 2 (Europe) (En,Fr,De,Es,It) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:44.000Z",
+      "fileSize": "Dave Mirra Freestyle BMX 2 GBA ROM - Game Download :: BlueRoms"
+    },
+    {
+      "title": "Fire Emblem: The Sacred Stones [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:235e7ea955145957816b3cc8e89ebc5f6e2d5efb&xt=urn:btmh:1220472ccad8dc280b512204f8ba3c06a3d642709aef88cdc1e17ada6fe94ed212bd&dn=Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:46.000Z",
+      "fileSize": "13.0MiB"
+    },
+    {
+      "title": "Magi Nation [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:6d73680d0980c478f260151434c73db02dc6801c&xt=urn:btmh:12204083b4379a3411753643e055488613ab6e17f6d836a30b25574c530d863c526f&dn=Magi Nation (Japan)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:47.000Z",
+      "fileSize": "2.7MiB"
+    },
+    {
+      "title": "Mario Golf: Advance Tour [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:11224e9414721ab5f81d46d749b9685745da70a2&xt=urn:btmh:1220bec1041959829d7de74c57dacd521c18bfc96f42647b93689f52ddd1eaf73214&dn=Mario Golf - Advance Tour (Europe) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:48.000Z",
+      "fileSize": "11.5MiB"
+    },
+    {
+      "title": "Medal of Honor: Infiltrator [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:793b661fb3e52bbc4140fd4500282f7340745190&xt=urn:btmh:1220354351d4b30c7d8a1a760f7a7482413f08e2b98cf2c55ea4eb6a49acb278be5a&dn=Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:50.000Z",
+      "fileSize": "7.8MiB"
+    },
+    {
+      "title": "Mega Man Battle Network 6: Cybeast Falzar [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:79d2349f6a6fad501a79c665c16025b3b9921751&xt=urn:btmh:12209e75023b0d1a0a9b3b419bf2ddfcc5404a814b3c92151dbb830e856caf3a40fd&dn=Mega Man Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:51.000Z",
+      "fileSize": "4.1MiB"
+    },
+    {
+      "title": "Phoenix Wright: Ace Attorney - Trials and Tribulations [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:430a80d2f32c030c7c9f328dd5980932bf29368d&xt=urn:btmh:1220f10d78422eecbd090e005d499801cf5e8204eafaa159ae101bdecfe716afd2b1&dn=Gyakuten Saiban 3 (Japan) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:53.000Z",
+      "fileSize": "5.5MiB"
+    },
+    {
+      "title": "Polarium Advance [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:26075378df743848631cf58daf4387786652bc6a&xt=urn:btmh:1220c64d2391b9a72aa5976120f4d4b732d9e2f824cf199588245c16bbe04bdd9d82&dn=Polarium Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:54.000Z",
+      "fileSize": "1.2MiB"
+    },
+    {
+      "title": "Puyo Pop [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:fa8c8e49e20bce09d18c7797d71ee220daa14f99&xt=urn:btmh:1220cd144af213e0a3f363b61b92aaf77402711645146a72a3ed413e9706ef46dbb2&dn=Puyo Pop (Europe) (En,Ja)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:55.000Z",
+      "fileSize": "3.4MiB"
+    },
+    {
+      "title": "Rayman Advance [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:82147e679bed8b55cf7a62e70d579932da7d9384&xt=urn:btmh:12200b1e70755f3aa1306214ac04e888fe632c0c87707f53175e1b44dd0f6f24f384&dn=Rayman Advance (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:57.000Z",
+      "fileSize": "3.5MiB"
+    },
+    {
+      "title": "Scurge: Hive [Game Boy Advance]",
+      "uris": [
+        "magnet:?xt=urn:btih:3514d1129c35aead26b338bc6315856c05952ce1&xt=urn:btmh:122066d0b7cd8846fa275fbdf002966fabc3b7b9f7f6641b63b3728d5d2110e5a992&dn=Scurge - Hive (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:53:58.000Z",
+      "fileSize": "5.8MiB"
+    },
+    {
+      "title": "Super Mario Galaxy [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:3625ec05d02b6a203264d73fd2bb7df657b05810&xt=urn:btmh:12207e012f282b0fbe4d5dd68e067c348d11a3e53aba187a27de202613fd5d10062c&dn=Super Mario Galaxy (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:02.000Z",
+      "fileSize": "3.3GiB"
+    },
+    {
+      "title": "Super Mario Galaxy 2 [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:f2728e675780af992b4575c424e48b1f2b140560&xt=urn:btmh:12203e8b794a4373ecdfa6834911d780cd8aca9e9a25e24a226a8745aca58b103cfa&dn=Super Mario Galaxy 2 (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:04.000Z",
+      "fileSize": "1.3GiB"
+    },
+    {
+      "title": "The Legend of Zelda: Skyward Sword [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:afa58a1c31275056bce24a1d0f21d3b5cb3c471a&xt=urn:btmh:12207966fbc26c9de91d95117fedb98430de370af942b60acaae75d00fb4662e676f&dn=Legend of Zelda, The - Skyward Sword (USA) (En,Fr,Es) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:05.000Z",
+      "fileSize": "3.9GiB"
+    },
+    {
+      "title": "The Legend of Zelda: Twilight Princess [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:4d74472c2436844c0b8d9a8e339fa2795096b244&xt=urn:btmh:12200a6ff278cfe5783a6dc50a5c20b5abe2cc83d4c6cbf1e0e0563dd84bc7421049&dn=Legend of Zelda, The - Twilight Princess (USA) (En,Fr,Es) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:07.000Z",
+      "fileSize": "1.1GiB"
+    },
+    {
+      "title": "Super Mario All-Stars: Limited Edition [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:1b7dc06a8bcec48603c7c33ea744ea65fba8dc82&xt=urn:btmh:1220b11b4d0704b78496b62be7ee24d5b828812e1df07ac851fc32730a9452af50d4&dn=Super Mario All-Stars (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:08.000Z",
+      "fileSize": "18.0MiB"
+    },
+    {
+      "title": "Metroid Prime Trilogy [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:10605f99ae2b8025346829cdd879abe165681c49&xt=urn:btmh:1220d2caa58e0d4ca6ae7e705123e013d6ef59b704efaa8b78e8419b9d38ea56930a&dn=Metroid Prime Trilogy (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:09.000Z",
+      "fileSize": "7.4GiB"
+    },
+    {
+      "title": "Resident Evil 4: Wii Edition [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:d24818f2c855e7c905835c293ba9daca91c0b449&xt=urn:btmh:12206ec35961112f1ae745a333606fb20fe0d5da594e9ba7c1b6cc962adcd2f4b672&dn=Resident Evil 4 - Wii Edition (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:10.000Z",
+      "fileSize": "4.0GiB"
+    },
+    {
+      "title": "Super Smash Bros. Brawl [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:b8e1ef37e3653733cd5a1746ea8b566c5e1d8bc0&xt=urn:btmh:1220e0a5f3acf76d50c056da434fdc0a73cf2be8dcf4f5f6b73ea0438c466c590e28&dn=Super Smash Bros. Brawl (USA) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:12.000Z",
+      "fileSize": "6.9GiB"
+    },
+    {
+      "title": "Xenoblade Chronicles [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:46e4457222d76fb224a4f0d771ff2215b1efc844&xt=urn:btmh:1220db0c966781f074109d204179a0746e1be8d0ef18d96af321bae38347a423cb8a&dn=Xenoblade Chronicles (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:13.000Z",
+      "fileSize": "6.3GiB"
+    },
+    {
+      "title": "Donkey Kong Country Returns [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:2d64f12d8af87d4bb77a89725d826801c4e08a2c&xt=urn:btmh:1220e1f0ea43f009d0827b04eeb4b8efb48db726618611be6df19d0c5e6ef1f372f8&dn=Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:15.000Z",
+      "fileSize": "3.3GiB"
+    },
+    {
+      "title": "New Super Mario Bros. Wii [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:151e78e60bde9f7bb5a053d6682e90171944c29d&xt=urn:btmh:1220d67444626a3bcca99d0b8018269e7ca2d0ad087e776ce54c592562f3cb6c0272&dn=New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:16.000Z",
+      "fileSize": "352.0MiB"
+    },
+    {
+      "title": "Zack & Wiki: Quest for Barbaros' Treasure [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:1489f54e1e9ef645d433899b69396570d2551fbb&xt=urn:btmh:122000e1169dfab597ffdedba8e66bdd7da8be20dd1d6e2fa8512ee28dac5d262449&dn=Zack & Wiki - Quest for Barbaros' Treasure (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:17.000Z",
+      "fileSize": "1.9GiB"
+    },
+    {
+      "title": "Boom Blox Bash Party [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:4f2ae7408f14b1ac5e105ddaab4252bec41b324c&xt=urn:btmh:1220031b7b75c04711863cae744a5ac06b8d21d9e8b66a58a154faac07a73b1b8500&dn=Boom Blox Bash Party (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:19.000Z",
+      "fileSize": "1.1GiB"
+    },
+    {
+      "title": "Kirby's Epic Yarn [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:c121429594c2a3fb667695efa6a94a1012b6041a&xt=urn:btmh:1220bf9c6a1a1c9b2af47c41e1a6135a369943c919ad78e2e60e0269f20c3a877208&dn=Kirby's Epic Yarn (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:20.000Z",
+      "fileSize": "3.6GiB"
+    },
+    {
+      "title": "Little King's Story [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:209b0ef001bc608cf62e97340677e20b1a072f63&xt=urn:btmh:1220521fe81294abd8602a66f3bfc8d3a0726aaaa5fcf2c482c3c668745ecda00e96&dn=Little King's Story (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:22.000Z",
+      "fileSize": "4.0GiB"
+    },
+    {
+      "title": "Punch-Out!! [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:7976cc8103cc717a37e34575c84a53a161986317&xt=urn:btmh:12203eb3f06e07e0970b668bb024d9e7101cb252788e166579d4cff7ca5d8e4a7c26&dn=Punch-Out!! (USA) (En,Fr,Es) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:23.000Z",
+      "fileSize": "3.6GiB"
+    },
+    {
+      "title": "Resident Evil Archives: Resident Evil [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:2397039a6cd0dd428ca5f2249065ee20ea67edef&xt=urn:btmh:1220df88e3939d569208215f87acf8ef7ad9a4c7d2149ac602a77675560bb83b031e&dn=Resident Evil Archives - Resident Evil (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:24.000Z",
+      "fileSize": "3.6GiB"
+    },
+    {
+      "title": "Sin & Punishment: Star Successor [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:e012a9a6699f10e775f71f86b78edfa07905a12d&xt=urn:btmh:12201b1d9ab49a9ad6facbb01efed20edfe5a6c94a7d4acf735b71adeb464cbadd14&dn=Sin & Punishment - Star Successor (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:26.000Z",
+      "fileSize": "914.0MiB"
+    },
+    {
+      "title": "Art Style: ROTOHEX [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:ad73d7730953c13d4aa5e5a5c38ec6aecf2b1e72&xt=urn:btmh:1220c332038a3e19a4661817c7b80eb0346137d9da22e452505c784cadba07e09880&dn=Art Style - ROTOHEX (USA) (WiiWare)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:27.000Z",
+      "fileSize": "20.3MiB"
+    },
+    {
+      "title": "Bit.Trip Complete [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:599ebe2aa5747b87e1929857d19d6e45719370f5&xt=urn:btmh:122064ae289de69bb5036db01b15f98302ecdeaf9d10e091548ae76d44316e30fe2e&dn=Bit.Trip Complete (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:29.000Z",
+      "fileSize": "882.0MiB"
+    },
+    {
+      "title": "Boom Blox [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:f0817429f99ae32fb9d4af2b5099c77cdcc11aed&xt=urn:btmh:1220cf8a1f0879f27336eeb13e705b67b2b49386140c91f6e71162d07330c94da843&dn=Boom Blox (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:30.000Z",
+      "fileSize": "1.3GiB"
+    },
+    {
+      "title": "Final Fantasy IV: The After Years [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:4cc2b90f163f8bbb03eed9dd5550cdaffde82591&xt=urn:btmh:122096decb564708d662d2c7ec08d9c198f3c443fc5385b6069fb54549ce3bbd1d82&dn=Final Fantasy IV - The After Years (USA) (WiiWare)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:32.000Z",
+      "fileSize": "26.8MiB"
+    },
+    {
+      "title": "MaBoShi's Arcade [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:a59138991ac0c329ac338949dc5ce5a89b58b58b&xt=urn:btmh:12209639dee5ac6963821a5b0932df21e94327dd1f22a5bc92638a6311193c4b60b8&dn=Maboshi's Arcade (USA) (WiiWare)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:33.000Z",
+      "fileSize": "21.3MiB"
+    },
+    {
+      "title": "Monster Hunter Tri [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:4c1d3202fd1ced4ed4e408e4592c27480c2d1314&xt=urn:btmh:122050f902dc507a2454f137da6885affd6a72f4bdec0d9f5ec85ec2cde965dc9091&dn=Monster Hunter Tri (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:35.000Z",
+      "fileSize": "2.6GiB"
+    },
+    {
+      "title": "No More Heroes 2: Desperate Struggle [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:9fd0068d2263706cf2f1a470a0b0b07eb69d7187&xt=urn:btmh:1220d4c11f175f50e526febb79914b826534eceae0ba1150197630f61b13e31107ea&dn=No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:36.000Z",
+      "fileSize": "3.3GiB"
+    },
+    {
+      "title": "Super Paper Mario [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:63d4d7a8d0a3fe8e384ebb7944648510692b437f&xt=urn:btmh:1220d128e95c0136c4fbe9c5358e2dfcfae683c601c44babae5ce3aead9caa1f5dbd&dn=Super Paper Mario (USA) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:37.000Z",
+      "fileSize": "408.0MiB"
+    },
+    {
+      "title": "Tatsunoko vs. Capcom: Ultimate All-Stars [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:e27ec517021c506c53a56a6b1a225ab2c72d54b9&xt=urn:btmh:12202e4571fd135955d51984baee004a69c2fac0853b4c42e5196e399dafb2ff2b5f&dn=Tatsunoko vs. Capcom - Ultimate All-Stars (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:39.000Z",
+      "fileSize": "1.4GiB"
+    },
+    {
+      "title": "And Yet It Moves [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:184a9fe79902c43c0941169fef10988cbe042f30&xt=urn:btmh:1220b6fab26e7addeb600e4c4aaf96fccbc225baec6a635ad3f7a1768f44b7c9c9f3&dn=And Yet It Moves (USA) (WiiWare)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:40.000Z",
+      "fileSize": "38.9MiB"
+    },
+    {
+      "title": "Call of Duty: World at War [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:b5b5dcfb2c917bcfd336b7f1ed1b1c06efb1bbec&xt=urn:btmh:12209ec6bf25ab856a8ea1df6f5d0634656c8ae0003944e962eb27663c8af7ce50de&dn=Call of Duty - World at War (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:41.000Z",
+      "fileSize": "2.5GiB"
+    },
+    {
+      "title": "de Blob [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:e97208495830b50a56e09bfbc092a1a3ddee2b7b&xt=urn:btmh:1220b5d1be970e06b0e08b4bb75c07d09734458468f3429947c62258ce54a5dabab6&dn=de Blob (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:43.000Z",
+      "fileSize": "1.9GiB"
+    },
+    {
+      "title": "Mario Kart Wii [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:2a8c0e39d6109e42c6a40ed08e9ff45a2a2ce1ba&xt=urn:btmh:1220082b22b4292797996d4c16050139d23a964529cb591ce2482e73a56dbdb6abbd&dn=Mario Kart Wii (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:44.000Z",
+      "fileSize": "2.6GiB"
+    },
+    {
+      "title": "Mega Man 9 [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:3f94c778e1814e5a64bd2bffaf7481c421965f84&xt=urn:btmh:1220f5131233c4f33891168d308ff0755bffad1d43da51c3d1ccd60a868b060bf6ff&dn=Mega Man 9 (USA) (WiiWare)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:46.000Z",
+      "fileSize": "15.2MiB"
+    },
+    {
+      "title": "MLB Power Pros [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:d8c23efecb9dffbb745cdd01a009e8ef28f64343&xt=urn:btmh:1220a5cfce3d3dc42f6c91117d386782a5779712c4b3b1f4d8f06771f32df9833854&dn=MLB Power Pros (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:47.000Z",
+      "fileSize": "1.1GiB"
+    },
+    {
+      "title": "MotoHeroz [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:08607338c9db790318bf2e02cea06c00038d65e2&xt=urn:btmh:122016927997e9bcb9fc5628ea5e3ccd8978dd16b0c8b06a47f3fc9430ca5223a084&dn=MotoHeroz (USA) (WiiWare)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:48.000Z",
+      "fileSize": "30.1MiB"
+    },
+    {
+      "title": "No More Heroes [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:0f0367b616b5714c4844b2e19ab60f1862c7b232&xt=urn:btmh:1220a347630365c4ba13b55098b197a061d83d9b04c7c0765297e9e24c7892e04a5e&dn=No More Heroes (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:50.000Z",
+      "fileSize": "3.3GiB"
+    },
+    {
+      "title": "Phoenix Wright: Ace Attorney [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:be4e7fa4b1aad14faa04753225beab0ba8c66053&xt=urn:btmh:122096d3ce9b2ab4e5a878ef380b7f080513a44d6f6d7a04f07f5cc594ea28a45759&dn=Phoenix Wright - Ace Attorney (USA) (WiiWare)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:51.000Z",
+      "fileSize": "44.8MiB"
+    },
+    {
+      "title": "Rayman: Raving Rabbids TV Party [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:0473d216e27b8a347184df6727ff1e7268ae6a84&xt=urn:btmh:1220a5ada5a7f086a2fe524e9b99a57fac816db8e53f9a060a7dcdd9fac39c82edd2&dn=Rayman - Raving Rabbids - TV Party (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:53.000Z",
+      "fileSize": "3.6GiB"
+    },
+    {
+      "title": "Rhythm Heaven Fever [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:a00de199ff8d4016fa79713aca347d85916f16fe&xt=urn:btmh:1220c079bd5e8a4e9acabc074a917dad4be75a2e4925b12338e25bbf6c1c5e9cc686&dn=Rhythm Heaven Fever (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:54.000Z",
+      "fileSize": "442.0MiB"
+    },
+    {
+      "title": "Silent Hill: Shattered Memories [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:8792170b58146c711fe76695986c80353f6e438e&xt=urn:btmh:12200060083bce6ae55318955d5011b7af1c13764064b28fa2119c09d11bc8dd6b80&dn=Silent Hill - Shattered Memories (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:55.000Z",
+      "fileSize": "3.6GiB"
+    },
+    {
+      "title": "Trauma Team [Nintendo Wii]",
+      "uris": [
+        "magnet:?xt=urn:btih:1f2466eee808cd71e6d5066c354468c2c7700763&xt=urn:btmh:1220c4bc30727c8d7a633298de7eb4db3a3ce043d6821eb8b5cab6fe319e72b0c03b&dn=Trauma Team (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:54:57.000Z",
+      "fileSize": "3.2GiB"
+    },
+    {
+      "title": "Pokémon Ultra Moon [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:df62947238f42f3a0be343ca308dac641d70d7f9&xt=urn:btmh:1220ff4faf6119dfe6882018aa5aa097d7a11472377d54124a2293a27ba82b8ddd14&dn=Pokemon Ultra Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:00.000Z",
+      "fileSize": "2.7GiB"
+    },
+    {
+      "title": "Pokémon Ultra Sun [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:bbcc286465e945ec9c05dfcaf7442fb372a2f4b7&xt=urn:btmh:12209ba6ecad1fc1279207dec7f16bbc0ddc9487bc6d23990360a12e5029721f240b&dn=Pokemon Ultra Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:02.000Z",
+      "fileSize": "2.7GiB"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time 3D [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:5448b0b0fd41017e72b0d24bf559ec83c14eb410&xt=urn:btmh:122097076eae6f6b0bb22d0220b79a30cee5b48391fa0c8f753d58ee40aa871b13cc&dn=Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:03.000Z",
+      "fileSize": "324.4MiB"
+    },
+    {
+      "title": "Fire Emblem: Awakening [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:9bcba1ed6e1fcece3e0a16e28b83b4b23b6abaea&xt=urn:btmh:12204eecc21e13d9e7682dc2e37000f349339e711fbc0ca3b8aa2b65a74a6aa850e1&dn=Fire Emblem - Awakening (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:04.000Z",
+      "fileSize": "1019.4MiB"
+    },
+    {
+      "title": "The Legend of Zelda: Majora's Mask 3D [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:fecc10fbac6d145bda0f861fbb54c2f4f6045be3&xt=urn:btmh:1220004b0805726f6a2a858b2bb42274005e44c312f5827adc0e07331606bad10bc1&dn=Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:05.000Z",
+      "fileSize": "569.8MiB"
+    },
+    {
+      "title": "The Legend of Zelda: A Link Between Worlds [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:0d55213b00c2450ea32051e1c8f9302b719008eb&xt=urn:btmh:1220f93aa978807ad8d2a8de6122584b6031a7c6b823acb2596c81060dafff83280d&dn=Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:06.000Z",
+      "fileSize": "592.8MiB"
+    },
+    {
+      "title": "Etrian Odyssey IV: Legends of the Titan [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:2ebfc7e822be22c8e4ce6c3b0d47f986201a0bc1&xt=urn:btmh:1220f1a5c0f8f8fe2f4b6a165c76ec88698e4c2d2f15a8e57aac9410fbc9da869c2f&dn=Etrian Odyssey IV - Legends of the Titan (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:08.000Z",
+      "fileSize": "465.7MiB"
+    },
+    {
+      "title": "Paper Mario: Sticker Star [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:d59d771255018440663e4f291b8ca2e174ad8e75&xt=urn:btmh:1220a6d0da18975fcdcbf1cd21ee43e1cbfe5c09db379c9b36aea6f8db191df302a6&dn=Paper Mario - Sticker Star (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:09.000Z",
+      "fileSize": "472.6MiB"
+    },
+    {
+      "title": "Super Mario 3D Land [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:b41b9d515beef88c8d93c32f0a338b7eba938d25&xt=urn:btmh:1220453468726fe6b1622a9074ecb9096d58ff0e042100e21903459bfe5200bcc742&dn=Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:10.000Z",
+      "fileSize": "295.7MiB"
+    },
+    {
+      "title": "Animal Crossing: New Leaf [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:ff908d3daff5df274222e6c907c2d3e9ee629d1a&xt=urn:btmh:122093f600869ae717c43a65e7be1011497ad0519f1d406a5b41fcd6d703f595f8d1&dn=Animal Crossing - New Leaf (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:12.000Z",
+      "fileSize": "494.3MiB"
+    },
+    {
+      "title": "Fire Emblem Fates: Special Edition [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:1e0f58554027dd091643d3305674f62eea9feea9&xt=urn:btmh:1220687503016e2d1d4804439637cae0617e1b1f721137758accaabc275f601f65a9&dn=Fire Emblem Fates - Special Edition (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:13.000Z",
+      "fileSize": "1.6GiB"
+    },
+    {
+      "title": "Picross 3D: Round 2 [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:7bcc933f0202f0cbde7b5911101ec1d4bbbb9655&xt=urn:btmh:1220f77b6e71448483151ecf678a1a4ef3da34728cb46e0af8a390dd3468314cd0b6&dn=Picross 3D - Round 2 (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:14.000Z",
+      "fileSize": "126.4MiB"
+    },
+    {
+      "title": "Pushmo [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:afff915f4b72c14e449a6cff8ea1b702a4aac519&xt=urn:btmh:1220efa09794d14a3045f2578ae25a3d87e84a042826ad0dafcb477830db677178a4&dn=Pushmo (USA) (Rev 1) (eShop)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:16.000Z",
+      "fileSize": "17.3MiB"
+    },
+    {
+      "title": "Etrian Odyssey 2 Untold: The Fafnir Knight [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:c37bb8db1e602deb9c7ccbb9d36b7559a190cb80&xt=urn:btmh:1220d1c2616eff971025e6bd6297ef1b3f2e52b042b8aede597d21409a8bfaf303b8&dn=Etrian Odyssey 2 Untold - The Fafnir Knight (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:17.000Z",
+      "fileSize": "832.6MiB"
+    },
+    {
+      "title": "Luigi's Mansion [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:841349ab7dfb6a8b6c11d1a458755c1126e061e5&xt=urn:btmh:1220828162aaa0595b667fdf34d41e0006f999179e71970e88f02f0c4c7bb964754f&dn=Luigi's Mansion (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:19.000Z",
+      "fileSize": "192.1MiB"
+    },
+    {
+      "title": "Monster Hunter 4: Ultimate [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:8a9bb4a78f4a03ce1cdd29eb2f584ba261ea8d2a&xt=urn:btmh:12200e00e02224791a4245dee006ed8f382a961b4fde67089c2e315ae6e12639237a&dn=Monster Hunter 4 Ultimate (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:20.000Z",
+      "fileSize": "2.4GiB"
+    },
+    {
+      "title": "Pokémon Alpha Sapphire [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:3a49fcba468913ac02d3d90ca9e79e8063d6d27d&xt=urn:btmh:12205ce3c57fe227bd248482023249eba27f420db392c9a2bd635654b5573f32f62b&dn=Pokemon Alpha Sapphire (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:21.000Z",
+      "fileSize": "1.5GiB"
+    },
+    {
+      "title": "Pokémon Moon [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:d0a3b73a0c36104bbe4b080549153510b76f3c20&xt=urn:btmh:12204c8d86dac245fe74d4d69161a56999e7638c677a2af1c701d23c4913983c5bc6&dn=Pokemon Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:23.000Z",
+      "fileSize": "2.4GiB"
+    },
+    {
+      "title": "Pokémon Omega Ruby [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:0369d17798ef844db43a3ede05c29e5c4394a6a0&xt=urn:btmh:12209a1da9449ada16a1c3b861623ba5ff379dbd2ed5742f6f64c86bd14db770a875&dn=Pokemon Omega Ruby (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:24.000Z",
+      "fileSize": "1.5GiB"
+    },
+    {
+      "title": "Pokémon Sun [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:f363d6e62826bece95ec1f3a55e366cf335ab91f&xt=urn:btmh:1220c0776d821c4c92fb3281f686e66daa48d7223853dee48b61491c3c9ec5374fb3&dn=Pokemon Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:26.000Z",
+      "fileSize": "2.4GiB"
+    },
+    {
+      "title": "Pokémon X [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:dd23fc04d23fb8d40bf263afb3ffe64ac674d31d&xt=urn:btmh:12203edcbe82ea18561ee18cd1c561cbf7bd565d1e54e275c4bbea76e084a6217fa6&dn=Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:27.000Z",
+      "fileSize": "1.3GiB"
+    },
+    {
+      "title": "Pokémon Y [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:14df26d9643685cde06f421ef4d92856f2e79b0c&xt=urn:btmh:122066a4226b9b488a1c849db0efd3ed068619b921ed074270b04f4f87f4c9d20934&dn=Pokemon Y (USA) (En,Ja,Fr,De,Es,It,Ko)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:28.000Z",
+      "fileSize": "1.3GiB"
+    },
+    {
+      "title": "Project X Zone [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:045523417edb3af8dd0d24615c506369197e2541&xt=urn:btmh:122098a5922b16d872659576fdb2791b9da3b6274eeb0836e39cdf044ced271b6eb3&dn=Project X Zone (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:30.000Z",
+      "fileSize": "430.3MiB"
+    },
+    {
+      "title": "Rhythm Heaven Megamix [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:5c9384c12dbdc66be44195f3062c640820860837&xt=urn:btmh:1220cdda0cb83c1da0d835edb256db909e7272d04bb8d5011e32c4abb9843a6a6f0c&dn=Rhythm Paradise Megamix (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:31.000Z",
+      "fileSize": "511.0MiB"
+    },
+    {
+      "title": "Super Mario Maker for Nintendo 3DS [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:905066e2e9188d3c61ce68e4647195d155476234&xt=urn:btmh:1220134161fed59e21bdc684ba7754ecfb288972a498093add453b9800fe8968fe68&dn=Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:32.000Z",
+      "fileSize": "296.6MiB"
+    },
+    {
+      "title": "Zero Escape: Volume 2 - Virtue's Last Reward [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:5fe705a45b3a97cbe240277bf221f74c8e976af8&xt=urn:btmh:1220bc0672fdd6316c2a62f8eeefc239375809ba416b8ee53cd2b297cc7d7145338c&dn=Zero Escape - Virtue's Last Reward (USA) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:34.000Z",
+      "fileSize": "712.9MiB"
+    },
+    {
+      "title": "Bravely Default [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:796e970eb04e556b3988b560327beec0bc470548&xt=urn:btmh:1220bf5b8fdc79f32cca376b9a983e9ef75ce76f3694b08e51cbf2d6427a272e5147&dn=Bravely Default (USA) (En,Ja,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:35.000Z",
+      "fileSize": "1.9GiB"
+    },
+    {
+      "title": "Fantasy Life [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:07f8bf6135746fbe74fa9c5cb863701b3fd1f5b2&xt=urn:btmh:1220edc96575ed3c3d8c7034037c12889dde90f11f4f3acacd9bf99da4886f840499&dn=Fantasy Life (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:36.000Z",
+      "fileSize": "794.5MiB"
+    },
+    {
+      "title": "Luigi's Mansion: Dark Moon [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:c1340f2c5165bf37cb0fb0dab035219468e8d277&xt=urn:btmh:1220cfd6076cab4a62bfde0466ad978ffb1bc27eb5d4a61886fcdd4c72a051b02ad9&dn=Luigi's Mansion 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:37.000Z",
+      "fileSize": "691.7MiB"
+    },
+    {
+      "title": "Mario Golf: World Tour [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:2653c828ab4320aa12b03d4a989dd00ce4f50b2c&xt=urn:btmh:1220f468691aceccb4f7360e8670ace60e8041c013bd13c1d0c0fea81d87c3d292ea&dn=Mario Golf - World Tour (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:39.000Z",
+      "fileSize": "488.2MiB"
+    },
+    {
+      "title": "Metroid: Samus Returns [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:752c3685d58e588209bd5618a78ea96538703a1a&xt=urn:btmh:12202bf8f66f0057b622f030ab3af2eeecb132048cdc805c52e3b48330dfe2a2284b&dn=Metroid - Samus Returns (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:40.000Z",
+      "fileSize": "507.0MiB"
+    },
+    {
+      "title": "Monster Hunter: Generations [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:906c8279f68338de4366096691a62b694a5a93a5&xt=urn:btmh:1220c9f436339cbce7d94e10c95e80643583fa025fb257943c88273adff17c97ead6&dn=Monster Hunter Generations (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:42.000Z",
+      "fileSize": "1.5GiB"
+    },
+    {
+      "title": "Radiant Historia: Perfect Chronology [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:3cd1e170e75b3014d2d0a43187a89c7b394eb6c1&xt=urn:btmh:12200db77d42d50432c970c0944aea8b4d9b5a4b65a1b373237d63f8e504fab3e258&dn=Radiant Historia - Perfect Chronology (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:43.000Z",
+      "fileSize": "832.6MiB"
+    },
+    {
+      "title": "Rhythm Thief & the Emperor's Treasure [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:7bb770776b8a0d54aabefa75ac41d23538921a45&xt=urn:btmh:12204e6ca75e278785e3486bfb98d0479492d8ef60a7620d8ed5b47aa4dd07aa7637&dn=Rhythm Thief & the Emperor's Treasure (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:45.000Z",
+      "fileSize": "1.3GiB"
+    },
+    {
+      "title": "Shin Megami Tensei: Devil Survivor 2 - Record Breaker [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:3234535a0b1d5a042fe3b9ef928f26c581c4b4b9&xt=urn:btmh:1220508a2fa1aba23270f6174d6b9292bcd5d3a56a3943457a18167bb71973f737ea&dn=Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:46.000Z",
+      "fileSize": "2.5GiB"
+    },
+    {
+      "title": "Super Smash Bros. for Nintendo 3DS [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:80a60edb09849b5cbbba95affa9df8b540b5fb6d&xt=urn:btmh:1220c1580e59c824e4763dace361955378c5db16519be54cb7241f18538bc7635db9&dn=Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 11)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:47.000Z",
+      "fileSize": "1.3GiB"
+    },
+    {
+      "title": "Donkey Kong Country Returns 3D [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:562db5d3bd7af72ce8d0b0bba23c20ba090ccbeb&xt=urn:btmh:1220d537954057d1b3e476585086824c9c4e8777766a8d97a66c76b3291e22dcbc87&dn=Donkey Kong Country Returns 3D (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:48.000Z",
+      "fileSize": "1.6GiB"
+    },
+    {
+      "title": "Kid Icarus: Uprising [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:a0f44367500268d4c054d3ea4490fb5610124b76&xt=urn:btmh:12201c3687cb7491ecaa9b73abb5e067581d8d0406236add67401749c3f6f3738c19&dn=Kid Icarus - Uprising (USA) (En,Fr,Es)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:50.000Z",
+      "fileSize": "1.5GiB"
+    },
+    {
+      "title": "Mario Kart 7 [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:6495b95960e100c62c9cca1d5b18ea628b69b15f&xt=urn:btmh:1220689a9da396f748d23fb4966b0dcd0c74d5ff106a16be909cef1e2b35fd169e73&dn=Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:51.000Z",
+      "fileSize": "641.0MiB"
+    },
+    {
+      "title": "Mario & Luigi: Bowser's Inside Story + Bowser Jr's Journey [Nintendo 3DS]",
+      "uris": [
+        "magnet:?xt=urn:btih:e1dba5e8c3970940f2a1c9f047cbe6f5ff50730a&xt=urn:btmh:1220250d7f26ffc272de80e85b6895bb7cbd971e44450453a6efa871b9ea3f014d5b&dn=Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (Europe) (En,Fr,De,Es,It)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
+      ],
+      "uploadDate": "2026-10-10T14:55:53.000Z",
+      "fileSize": "642.7MiB"
+    }
+  ]
+}

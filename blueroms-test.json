@@ -1,0 +1,45 @@
+{
+  "name": "BlueRoms Test",
+  "downloads": [
+    {
+      "title": "Final Fantasy IX [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:5803bb149c29149cd60fea557c450e90b78a4f73&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:16.000Z",
+      "fileSize": "1.4GB"
+    },
+    {
+      "title": "Chrono Cross [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:0a058afa4861dbf1b2909d726969b89d7cdc7773&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:17.000Z",
+      "fileSize": "665.9MB"
+    },
+    {
+      "title": "Metal Gear Solid [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:335c2ea54ae0c241b8d8728f6a4aa06375b7e769&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:18.000Z",
+      "fileSize": "790.5MB"
+    },
+    {
+      "title": "Castlevania: Symphony of the Night [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:f64760b192776e8526967105250a1f74b74924f9&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:20.000Z",
+      "fileSize": "351.4MB"
+    },
+    {
+      "title": "Final Fantasy VII [PlayStation]",
+      "uris": [
+        "magnet:?xt=urn:btih:d86ab054d2826626a4a8fbd6fb5d78b59a447f18&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-10-10T14:47:21.000Z",
+      "fileSize": "1.6GB"
+    }
+  ]
+}

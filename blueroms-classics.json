@@ -1,13 +1,1 @@
-{
-  "name": "BlueRoms Classics",
-  "downloads": [
-    {
-      "title": "Final Fantasy IX [PlayStation]",
-      "uris": [
-        "magnet:?xt=urn:btih:5803bb149c29149cd60fea557c450e90b78a4f73&xt=urn:btmh:1220415ecc7526e400b7820d7e80d573877c1be491d3cf1e7c7387b23cdf37f594ff&dn=Final Fantasy IX (USA) (Rev 1)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce"
-      ],
-      "uploadDate": "2026-10-10T14:47:16.000Z",
-      "fileSize": "1.4GiB"
-    }
-  ]
-}
+$(python3 -c 'print(open("/workspace/artifacts/blueroms-classics-clean.json").read())')
